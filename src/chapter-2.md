@@ -1,1 +1,1 @@
-# Chapter 2 - NEW
+# Chapter 2 - NEW GAME
