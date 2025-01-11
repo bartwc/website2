@@ -1,3 +1,3 @@
-# Chapter 1 - NEW CONTENT
+# Chapter 1 - NEW
 
 Content goes here.
