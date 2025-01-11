@@ -159,7 +159,7 @@
 <p><a href="https://github.com/MichaelCurrin/mdbook-quickstart"><img src="https://img.shields.io/static/v1?label=MichaelCurrin&amp;message=mdbook-quickstart&amp;color=blue&amp;logo=github" alt="MichaelCurrin - mdbook-quickstart" /></a></p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="chapter-1---new"><a class="header" href="#chapter-1---new">Chapter 1 - NEW</a></h1>
 <p>Content goes here.</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="chapter-2"><a class="header" href="#chapter-2">Chapter 2</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="chapter-2---new"><a class="header" href="#chapter-2---new">Chapter 2 - NEW</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="foo"><a class="header" href="#foo">Foo</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="fizz"><a class="header" href="#fizz">Fizz</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="buzz"><a class="header" href="#buzz">Buzz</a></h1>
@@ -181,6 +181,22 @@
 
         </div>
 
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
 
 
 
