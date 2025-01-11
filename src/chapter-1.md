@@ -1,3 +1,5 @@
-# Chapter 1 - NEW 2
+# Chapter 1
+
+EH is a funny joker.
 
 Content goes here.
