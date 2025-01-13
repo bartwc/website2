@@ -220,29 +220,25 @@ Rules for Cyclists
 | LIDL |            | JUMBO |              | PLUS |  | AH To Go         |
 | Thu  | Sat Market |       | Albert Heijn | AH   |  | SPAR             |  |  |
 
-| Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                 |
-|---------------------------------------------------------------------------|-----------------------------------------------------|
-| Frituurolie (Frying Oil 2L) - 5.32 ^                                      | ToiletPapier                                        |
-| (Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95                  |                                                     |
-| Wokgarnalen                                                               |                                                     |
-| (Wok Shrimp 200g vs AH 150g) - 4.49 ^                                     | Karbonades (Pork Chops - 400g) - 3.15               |
-| Babi Panggang (Roast Pork Fried Rice) - 3.79 ^                            | Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09 |
-| Varkensfiletlapjes (Pork Fillet 400g) - 2.99 ^                            | AH Spaghetti Bolognese - 2.49                       |
-| Mager Hoh Gehakt                                                          |                                                     |
-| (Lean Mince Pork Meat 300g) - 2.69 x                                      | AH Bouillon (Beef Bouillon) - 0.60                  |
-| Lasagne Bologn. - 2.49 x                                                  | Spa Reine (Water 1L) - 1.05                         |
-| Ribkarbonade (Pork Ribs 280g) - 2.36 x                                    |                                                     |
-| Appelsap Trobel (Apple Juice) - 1.69 x                                    |                                                     |
-| Honing Hoepels (Honey Hoops) - 1.49 x                                     |                                                     |
-| Hub Chocopops - 1.04 ^                                                    |                                                     |
-| Waspeen (Carrot) - 0.99 ^                                                 |                                                     |
-| Spaghetti - 0.99 x                                                        |                                                     |
-| Sojadrink Naturel (Soyabean Milk Sweet) - 0.89 ^                          |                                                     |
-| Chinese Mie (Chinese Noodles) - 0.79 ^                                    |                                                     |
-| Hub Pedaalemmerzakken                                                     |                                                     |
-| (Pedal Bin Plastic Packets) - 0.77 x                                      |                                                     |
-| Items marked with ^ are upvoted whilst                                    |                                                     |
-| items marked with x can be found at the equivalent price in Albert Heijn. |                                                     |
+| Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                                   |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Frituurolie (Frying Oil 2L) - 5.32 ^                                      | ToiletPapier (Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95 |
+| Wokgarnalen (Wok Shrimp 200g vs AH 150g) - 4.49 ^                         | Karbonades (Pork Chops - 400g) - 3.15                                 |
+| Babi Panggang (Roast Pork Fried Rice) - 3.79 ^                            | Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09                   |
+| Varkensfiletlapjes (Pork Fillet 400g) - 2.99 ^                            | AH Spaghetti Bolognese - 2.49                                         |
+| Mager Hoh Gehakt (Lean Mince Pork Meat 300g) - 2.69 x                     | AH Bouillon (Beef Bouillon) - 0.60                                    |
+| Lasagne Bologn. - 2.49 x                                                  | Spa Reine (Water 1L) - 1.05                                           |
+| Ribkarbonade (Pork Ribs 280g) - 2.36 x                                    |                                                                       |
+| Appelsap Trobel (Apple Juice) - 1.69 x                                    |                                                                       |
+| Honing Hoepels (Honey Hoops) - 1.49 x                                     |                                                                       |
+| Hub Chocopops - 1.04 ^                                                    |                                                                       |
+| Waspeen (Carrot) - 0.99 ^                                                 |                                                                       |
+| Spaghetti - 0.99 x                                                        |                                                                       |
+| Sojadrink Naturel (Soyabean Milk Sweet) - 0.89 ^                          |                                                                       |
+| Chinese Mie (Chinese Noodles) - 0.79 ^                                    |                                                                       |
+| Hub Pedaalemmerzakken (Pedal Bin Plastic Packets) - 0.77 x                |                                                                       |
+| Items marked with ^ are upvoted whilst                                    |                                                                       |
+| items marked with x can be found at the equivalent price in Albert Heijn. |                                                                       |
 
 ### Household Products and Tools
 
@@ -338,28 +334,22 @@ Recommendation: Private Food Outlets Between Civil Engineering and Echo offer go
 1. [The Hangout - Vietnamese & More](https://maps.app.goo.gl/AajxvvKuwSToPMZo7)
 2. [Food Station](https://maps.app.goo.gl/gq9fH5jdiHoXuaV69)
 
-| **S/N**                  | **FACULTY / BUILDING**                        | **AVAILABLE FOOD OUTLETS** |
-|--------------------------|-----------------------------------------------|----------------------------|
-| 1                        | ARCHITECTURE AND THE BUILT ENVIRONMENT (ARCH) | FOODTURE                   |
-| COFFEE & CO              |                                               |                            |
-| 2                        | TECHNOLOGY, POLICY AND MANAGEMENT (TPM)       | GOODISH                    |
-| 3                        | INDUSTRIAL DESIGN ENGINEERING (IDE)           | FOODSQUARE                 |
-| 4                        | COFFEE & BIKES                                | COFFEE-STAR                |
-| 5                        | PULSE                                         | FOOD MARKET                |
-| 6                        | MECHANICAL ENGINEERING (ME)                   | LEMONS & BEANS             |
-| 7                        | AULA CONFERENCE CENTRE                        | FOODSQUARE                 |
-| FACULTY CLUB             |                                               |                            |
-| 8                        | ELECTRIC ENGINEERING, MATHEMATICS &           |                            |
-| COMPUTER SCIENCE (EEMCS) | GOODISH                                       |                            |
-| COFFEE & CO              |                                               |                            |
-| 9                        | CIVIL ENGINEERING AND GEOSCIENCES (CEG)       | FOODSQUARE                 |
-| LEMONS & BEANS           |                                               |                            |
-| 10                       | ЕСНО                                          | FOODTURE                   |
-| COFFEE & CO              |                                               |                            |
-| 11                       | AEROSPACE ENGINEERING (AE)                    | GOODISH                    |
-| 12                       | THE FELLOWSHIP                                | FOOD MARKET                |
-| 13                       | APPLIED SCIENCES (AS)                         | GOODISH                    |
-| 14                       | REACTOR INSTITUTE DELFT                       | POWERKITCHEN               |
+| **S/N** | **FACULTY / BUILDING**                                       | **AVAILABLE FOOD OUTLETS**  |
+|---------|--------------------------------------------------------------|-----------------------------|
+| 1       | ARCHITECTURE AND THE BUILT ENVIRONMENT (ARCH)                | FOODTURE & COFFEE & CO      |
+| 2       | TECHNOLOGY, POLICY AND MANAGEMENT (TPM)                      | GOODISH                     |
+| 3       | INDUSTRIAL DESIGN ENGINEERING (IDE)                          | FOODSQUARE                  |
+| 4       | COFFEE & BIKES                                               | COFFEE-STAR                 |
+| 5       | PULSE                                                        | FOOD MARKET                 |
+| 6       | MECHANICAL ENGINEERING (ME)                                  | LEMONS & BEANS              |
+| 7       | AULA CONFERENCE CENTRE                                       | FOODSQUARE & FACULTY CLUB   |
+| 8       | ELECTRIC ENGINEERING, MATHEMATICS & COMPUTER SCIENCE (EEMCS) | GOODISH & COFFEE & CO       |
+| 9       | CIVIL ENGINEERING AND GEOSCIENCES (CEG)                      | FOODSQUARE & LEMONS & BEANS |
+| 10      | ЕСНО                                                         | FOODTURE & COFFEE & CO      |
+| 11      | AEROSPACE ENGINEERING (AE)                                   | GOODISH                     |
+| 12      | THE FELLOWSHIP                                               | FOOD MARKET                 |
+| 13      | APPLIED SCIENCES (AS)                                        | GOODISH                     |
+| 14      | REACTOR INSTITUTE DELFT                                      | POWERKITCHEN                |
 
 ### Clubs
 
