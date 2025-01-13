@@ -66,20 +66,20 @@ Try not to skip it as seniors will guide you on Campus Discovery, Brightspace Pu
 
 ### Weather in Delft
 
-| Month | Temp. | Rainy Days | Dry Days | Snowy Days | Rainfall (mm) | Weather |
-| --- |-------| --- | --- | --- |------------| --- |
-| [January](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=January) | 6° / 4° | 10 | 18 | 4 | 107        | Awful |
-| [February](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=February) | 6° / 3° | 8 | 16 | 4 | 78      | Awful |
-| [March](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=March) | 9° / 5° | 6 | 24 | 1 | 67      | Ok |
-| [April](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=April) | 13° / 7° | 3 | 26 | 1 | 45      | Ok |
+| Month | Temperature | Rainy Days | Dry Days | Snowy Days | Rainfall (mm) | Weather |
+| --- |-----------| --- | --- | --- |------------| --- |
+| [January](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=January) | 6° / 4°   | 10 | 18 | 4 | 107        | Awful |
+| [February](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=February) | 6° / 3°   | 8 | 16 | 4 | 78      | Awful |
+| [March](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=March) | 9° / 5°   | 6 | 24 | 1 | 67      | Ok |
+| [April](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=April) | 13° / 7°  | 3 | 26 | 1 | 45      | Ok |
 | [May](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=May) | 15° / 10° | 5 | 26 | 0 | 79      | Good |
 | [June](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=June) | 18° / 13° | 5 | 25 | 0 | 90      | Good |
 | [July](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=July) | 20° / 16° | 7 | 24 | 0 | 116     | Ok |
 | [August](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=August) | 21° / 16° | 7 | 24 | 0 | 138     | Ok |
 | [September](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=September) | 19° / 14° | 6 | 24 | 0 | 109     | Good |
 | [October](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=October) | 15° / 11° | 8 | 23 | 0 | 124     | Ok |
-| [November](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=November) | 11° / 8° | 7 | 22 | 1 | 115     | Bad |
-| [December](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=December) | 8° / 5° | 10 | 18 | 3 | 118     | Awful |
+| [November](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=November) | 11° / 8°  | 7 | 22 | 1 | 115     | Bad |
+| [December](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=December) | 8° / 5°   | 10 | 18 | 3 | 118     | Awful |
 
 ### Things to Bring to TU Delft
 
