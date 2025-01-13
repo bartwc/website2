@@ -163,13 +163,12 @@ To save 40% off NS Trains during off-peak hours, weekends and public holidays, y
 
 Refer to HTM Tram and Bus Map Below.
 
-[HTM.pdf](TU Delft - Survival Guide - HTM.pdf)
+[TUDelft-Survival Guide-HTM.pdf](TUDelft-SurvivalGuide-HTM.pdf)
 
 ### Phone Plan
 
 The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
-
-![TU Delft - Survival Guide - Lebara.png](TU Delft - Survival Guide - Lebara.png)
+![TUDelft-Survival Guide-Lebara.png](TUDelft-SurvivalGuide-Lebara.png)
 
 ### Cycling
 
@@ -185,7 +184,7 @@ First Hand - [Decathlon](https://www.decathlon.nl/p/mp/moma-bikes/stadsfiets-hol
 
 [Swapfiets](https://swapfiets.nl/delft) €€ | [GoShare](https://nl.go-sharing.com/en/) €€€€€€
 
-![Bicycle.png](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Bicycle.png)
+![TUDelft-Survival Guide-Bicycle.png](TUDelft-SurvivalGuide-Bicycle.png)
 
 Things to Note Prior to Purchase
 
@@ -221,29 +220,29 @@ Rules for Cyclists
 | LIDL |  | JUMBO |  | PLUS |  | AH To Go |
 | Thu| Sat Market |  | Albert Heijn | AH |  | SPAR |  |  |
 
-| Things Worth Buying in ALDI | Things Worth Buying in Albert Heijn |
-| --- | --- |
-| Frituurolie (Frying Oil 2L) - 5.32 ^ | ToiletPapier 
-(Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95 |
-| Wokgarnalen 
-(Wok Shrimp 200g vs AH 150g) - 4.49 ^ | Karbonades (Pork Chops - 400g) - 3.15 |
-| Babi Panggang (Roast Pork Fried Rice) - 3.79 ^ | Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09 |
-| Varkensfiletlapjes (Pork Fillet 400g) - 2.99 ^ | AH Spaghetti Bolognese - 2.49 |
-| Mager Hoh Gehakt 
-(Lean Mince Pork Meat 300g) - 2.69 x | AH Bouillon (Beef Bouillon) - 0.60 |
-| Lasagne Bologn. - 2.49 x | Spa Reine (Water 1L) - 1.05 |
-| Ribkarbonade (Pork Ribs 280g) - 2.36 x |  |
-| Appelsap Trobel (Apple Juice) - 1.69 x |  |
-| Honing Hoepels (Honey Hoops) - 1.49 x |  |
-| Hub Chocopops - 1.04 ^ |  |
-| Waspeen (Carrot) - 0.99 ^ |  |
-| Spaghetti - 0.99 x |  |
-| Sojadrink Naturel (Soyabean Milk Sweet) - 0.89 ^ |  |
-| Chinese Mie (Chinese Noodles) - 0.79 ^ |  |
-| Hub Pedaalemmerzakken 
-(Pedal Bin Plastic Packets) - 0.77 x |  |
-| Items marked with ^ are upvoted whilst 
-items marked with x can be found at the equivalent price in Albert Heijn. |  |
+| Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                 |
+|---------------------------------------------------------------------------|-----------------------------------------------------|
+| Frituurolie (Frying Oil 2L) - 5.32 ^                                      | ToiletPapier                                        |
+| (Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95                  |                                                     |
+| Wokgarnalen                                                               |                                                     |
+| (Wok Shrimp 200g vs AH 150g) - 4.49 ^                                     | Karbonades (Pork Chops - 400g) - 3.15               |
+| Babi Panggang (Roast Pork Fried Rice) - 3.79 ^                            | Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09 |
+| Varkensfiletlapjes (Pork Fillet 400g) - 2.99 ^                            | AH Spaghetti Bolognese - 2.49                       |
+| Mager Hoh Gehakt                                                          |                                                     |
+| (Lean Mince Pork Meat 300g) - 2.69 x                                      | AH Bouillon (Beef Bouillon) - 0.60                  |
+| Lasagne Bologn. - 2.49 x                                                  | Spa Reine (Water 1L) - 1.05                         |
+| Ribkarbonade (Pork Ribs 280g) - 2.36 x                                    |                                                     |
+| Appelsap Trobel (Apple Juice) - 1.69 x                                    |                                                     |
+| Honing Hoepels (Honey Hoops) - 1.49 x                                     |                                                     |
+| Hub Chocopops - 1.04 ^                                                    |                                                     |
+| Waspeen (Carrot) - 0.99 ^                                                 |                                                     |
+| Spaghetti - 0.99 x                                                        |                                                     |
+| Sojadrink Naturel (Soyabean Milk Sweet) - 0.89 ^                          |                                                     |
+| Chinese Mie (Chinese Noodles) - 0.79 ^                                    |                                                     |
+| Hub Pedaalemmerzakken                                                     |                                                     |
+| (Pedal Bin Plastic Packets) - 0.77 x                                      |                                                     |
+| Items marked with ^ are upvoted whilst                                    |                                                     |
+| items marked with x can be found at the equivalent price in Albert Heijn. |                                                     |
 
 ### Household Products and Tools
 
@@ -324,7 +323,7 @@ Here is a [website link](https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z
 
 ### Academic Calendar 2023-2024
 
-![Untitled](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Untitled.png)
+![TUDelft-SurvivalGuide-Calendar20232024.png](TUDelft-SurvivalGuide-Calendar20232024.png)
 
 ### Entire Map of TU Delft
 
@@ -332,7 +331,7 @@ Here is a [website link](https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z
 
 ### Food
 
-![Untitled](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Untitled%201.png)
+![TUDelft-SurvivalGuide-Food.png](TUDelft-SurvivalGuide-Food.png)
 
 Recommendation: Private Food Outlets Between Civil Engineering and Echo offer good food at good prices.
 
@@ -364,11 +363,11 @@ COFFEE & CO |
 
 ### Clubs
 
-[Clubs in TU Delft](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Clubs%20in%20TU%20Delft%20686a312120204f05895c28a95f3370df.csv)
+[TUDelft-SurvivalGuide-ClubsTUDelft.csv](TUDelft-SurvivalGuide-ClubsTUDelft.csv)
 
 ### Research Groups
 
-[Research Groups in EEMCS](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Research%20Groups%20in%20EEMCS%2084c018a3b3984ef29ec90abb80f5dfe8.csv)
+[TUDelft-SurvivalGuide-ResearchGroupsEEMCS.csv](TUDelft-SurvivalGuide-ResearchGroupsEEMCS.csv)
 
 ## Conclusion
 
