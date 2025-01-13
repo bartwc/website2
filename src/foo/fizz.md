@@ -220,6 +220,7 @@ Rules for Cyclists
 | LIDL           |  | JUMBO             |  | PLUS |  | AH To Go         |
 | Thu/Sat Market |  | Albert Heijn (AH) |  | SPAR |  |                  |
 
+### Things Worth Buying
 
 | Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                                   |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -306,7 +307,7 @@ Casio FX-82MS is suitable for exams.***
 
 *** This calculator is inferior to Casio FX-991EX as it lacks one function - solving quadratic equations.
 
-### “[**X](https://www.tudelft.nl/x/over-x/ons-verhaal)..**
+### [X](https://www.tudelft.nl/x/over-x/ons-verhaal)
 
 “[is a place on campus where you can develop in areas that are not always part of the academic training, but which are invaluable. X focuses on the *needs of young people* and has a variable range in the field of sports, games, arts, crafts, reflection and lifestyle. The offer ranges from courses, ticket hours, events and projects to, for example, free use of a student kitchen and living room and the initiation of activities and/or programming.](https://www.tudelft.nl/x/over-x/ons-verhaal)”
 
