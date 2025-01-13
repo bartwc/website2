@@ -24,39 +24,39 @@ Try not to skip it as seniors will guide you on Campus Discovery, Brightspace Pu
 
 ### Housing Portals
 
-| Housing organization                    | Trust Pilot    | Student acc. | Couple | Family | Shared |
-|-----------------------------------------|----------------|--------------|--------|--------|--------|
-| RoomPlaza                               | 4.4            | X            | X      | X      | X      |
-| Bjornd Brokerage                        | NA             |              | X      | X      |        |
-| Funda                                   | 1.9            | X            | X      | X      | X      |
-| Pararius - Homeland Real Estate ^       | 4.7            | X            | X      | X      |        |
-| Holland Homestay                        | NA             | X            | X      |        | X      |
-| Rooms in Delft - Holidays               | Rent Slam      | 0            | X      |        |        |  |
-| Rooms.nl - Idealis vs DUWO              | XIOR           | 3.3          | X      | X      | X      | X |
-| Kamernet.nl                             | 3.5            | X            |        |        | X      |
-| Student Housing The Hague               | 4.3            | X            | X      |        | X      |
-| The Social Hub - Holidays               | NA             | X            | X      |        |        |
-| 4-Freedom Property Management           | NA             | X            | X      | X      | X      |
-| Be Home                                 | NA             | X            | X      | X      |        |
-| Direct Living                           | NA             | X            | X      | X      | X      |
-| Homelets.nl                             | 2.9            | X            | X      | X      | X      |
-| HometoGo - Not Private and Holidays     | 2.4            |              |        |        |        |
-| Hostel Delft - Not Private and Holidays | NA             |              |        |        |        |
-| Housing source                          | 2.3            | X            | X      | X      |        |
-| HousingAnywhere                         | 3.7            | X            | X      | X      | X      |
-| Huurwoningen.nl                         | Huurportaal.nl | 4.4          | X      | X      | X      | X |
-| Kamer.nl                                | 0              | X            | X      | X      |        |
-| Stadium                                 |                |              | X      | X      |        |
-| MaliepaardBrokers                       | NA             |              | X      | X      |        |
-| MB275                                   | NA             | X            | X      |        |        |
-| Old Delft Brokerage                     | NA             |              | X      | X      |        |
-| OurDomain Rotterdam Blaak - Holidays    | NA             | X            | X      |        |        |
-| Villaci                                 |                |              | X      | X      |        |
-| Plaza Resident Services - Not Private   | 0              | X            |        |        |        |
-| Rock - Fixed Group                      | NA             | X            | X      | X      | X      |
-| Sealed Management                       | NA             | X            |        |        |        |
-| Son's Real Estate                       | NA             | X            |        |        | X      |
-| vestia                                  | 1.9            | X            | X      | X      |        |
+| Housing organization                    | Trust Pilot | Student acc. | Couple | Family | Shared |
+|-----------------------------------------|-------------|--------------|--------|--------|--------|
+| RoomPlaza                               | 4.4         | X            | X      | X      | X      |
+| Bjornd Brokerage                        | NA          |              | X      | X      |        |
+| Funda                                   | 1.9         | X            | X      | X      | X      |
+| Pararius - Homeland Real Estate ^       | 4.7         | X            | X      | X      |        |
+| Holland Homestay                        | NA          | X            | X      |        | X      |
+| Rooms in Delft - Holidays / Rent Slam   | 0           | X            |        |        |        |
+| Rooms.nl - Idealis vs DUWO/XIOR         | 3.3         | X            | X      | X      | X      |
+| Kamernet.nl                             | 3.5         | X            |        |        | X      |
+| Student Housing The Hague               | 4.3         | X            | X      |        | X      |
+| The Social Hub - Holidays               | NA          | X            | X      |        |        |
+| 4-Freedom Property Management           | NA          | X            | X      | X      | X      |
+| Be Home                                 | NA          | X            | X      | X      |        |
+| Direct Living                           | NA          | X            | X      | X      | X      |
+| Homelets.nl                             | 2.9         | X            | X      | X      | X      |
+| HometoGo - Not Private and Holidays     | 2.4         |              |        |        |        |
+| Hostel Delft - Not Private and Holidays | NA          |              |        |        |        |
+| Housing source                          | 2.3         | X            | X      | X      |        |
+| HousingAnywhere                         | 3.7         | X            | X      | X      | X      |
+| Huurwoningen.nl / Huurportaal.nl        | 4.4         | X            | X      | X      | X      |
+| Kamer.nl                                | 0           | X            | X      | X      |        |
+| Stadium                                 |             |              | X      | X      |        |
+| MaliepaardBrokers                       | NA          |              | X      | X      |        |
+| MB275                                   | NA          | X            | X      |        |        |
+| Old Delft Brokerage                     | NA          |              | X      | X      |        |
+| OurDomain Rotterdam Blaak - Holidays    | NA          | X            | X      |        |        |
+| Villaci                                 |             |              | X      | X      |        |
+| Plaza Resident Services - Not Private   | 0           | X            |        |        |        |
+| Rock - Fixed Group                      | NA          | X            | X      | X      | X      |
+| Sealed Management                       | NA          | X            |        |        |        |
+| Son's Real Estate                       | NA          | X            |        |        | X      |
+| vestia                                  | 1.9         | X            | X      | X      |        |
 
 ### Apps
 
@@ -83,14 +83,14 @@ Try not to skip it as seniors will guide you on Campus Discovery, Brightspace Pu
 
 ### Things to Bring to TU Delft
 
-| S/N                                                                           | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) | S/N | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) |
-|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------|
-| 1                                                                             | Passport                                                                                                                             | 7   | Birth (Compulsory) + Marriage Cert. (Optional)                                                                                       |
-| 2                                                                             | VISA from Embassy                                                                                                                    | 8   | [Driver's License                                                                                                                    | International Driving Permit 1 Year](https://idponline.aas.com.sg/pages/Application?spm=BlogArticle.InArticleHyperlinkWord&clickId=06a832f733) |
-| 3                                                                             | High School & Uni Certs                                                                                                              | 9   | Handphone                                                                                                                            | Laptop | Chargers |
-| 4                                                                             | TU Delft Official Letter                                                                                                             | 10  | Clothes for Summer & Winter                                                                                                          |
-| 5                                                                             | Insurance Papers                                                                                                                     | 11  | Medicine                                                                                                                             |
-| [6](https://www.klook.com/en-SG/blog/international-drivers-permit-singapore/) | [Housing Contract + Host ID Hardcopy](https://www.delft.nl/en/moving-delft-abroad)                                                   | 12  | Money - 10K USD <                                                                                                                    |
+| S/N                                                                           | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) | S/N | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist)                               |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                                                                             | Passport                                                                                                                             | 7   | Birth (Compulsory) + Marriage Cert. (Optional)                                                                                                                     |
+| 2                                                                             | VISA from Embassy                                                                                                                    | 8   | [Driver's License / International Driving Permit 1 Year](https://idponline.aas.com.sg/pages/Application?spm=BlogArticle.InArticleHyperlinkWord&clickId=06a832f733) |
+| 3                                                                             | High School & Uni Certs                                                                                                              | 9   | Handphone / Laptop / Chargers                                                                                                                                      |
+| 4                                                                             | TU Delft Official Letter                                                                                                             | 10  | Clothes for Summer & Winter                                                                                                                                        |
+| 5                                                                             | Insurance Papers                                                                                                                     | 11  | Medicine                                                                                                                                                           |
+| [6](https://www.klook.com/en-SG/blog/international-drivers-permit-singapore/) | [Housing Contract + Host ID Hardcopy](https://www.delft.nl/en/moving-delft-abroad)                                                   | 12  | Money - 10K USD <                                                                                                                                                  |
 
 ## Arriving in the Netherlands
 
@@ -214,11 +214,12 @@ Rules for Cyclists
 
 ### Supermarkets
 
-| €    |            | €€    |              | €€€  |  | €€€€             |
-|------|------------|-------|--------------|------|--|------------------|
-| ALDI |            | DIRK  |              | COOP |  | SPAR in TU Delft |
-| LIDL |            | JUMBO |              | PLUS |  | AH To Go         |
-| Thu  | Sat Market |       | Albert Heijn | AH   |  | SPAR             |  |  |
+| €              |  | €€                |  | €€€  |  | €€€€             |
+|----------------|--|-------------------|--|------|--|------------------|
+| ALDI           |  | DIRK              |  | COOP |  | SPAR in TU Delft |
+| LIDL           |  | JUMBO             |  | PLUS |  | AH To Go         |
+| Thu/Sat Market |  | Albert Heijn (AH) |  | SPAR |  |                  |
+
 
 | Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                                   |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------|
