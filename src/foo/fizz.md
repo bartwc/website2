@@ -24,73 +24,73 @@ Try not to skip it as seniors will guide you on Campus Discovery, Brightspace Pu
 
 ### Housing Portals
 
-| Housing organization | Trust Pilot | Student acc. | Couple | Family | Shared |
-| --- | --- | --- | --- | --- | --- |
-| RoomPlaza | 4.4 | X | X | X | X |
-| Bjornd Brokerage | NA |  | X | X |  |
-| Funda | 1.9 | X | X | X | X |
-| Pararius - Homeland Real Estate ^ | 4.7 | X | X | X |  |
-| Holland Homestay | NA | X | X |  | X |
-| Rooms in Delft - Holidays | Rent Slam | 0 | X |  |  |  |
-| Rooms.nl - Idealis vs DUWO | XIOR | 3.3 | X | X | X | X |
-| Kamernet.nl | 3.5 | X |  |  | X |
-| Student Housing The Hague | 4.3 | X | X |  | X |
-| The Social Hub - Holidays | NA | X | X |  |  |
-| 4-Freedom Property Management | NA | X | X | X | X |
-| Be Home | NA | X | X | X |  |
-| Direct Living | NA | X | X | X | X |
-| Homelets.nl | 2.9 | X | X | X | X |
-| HometoGo - Not Private and Holidays | 2.4 |  |  |  |  |
-| Hostel Delft - Not Private and Holidays | NA |  |  |  |  |
-| Housing source | 2.3 | X | X | X |  |
-| HousingAnywhere | 3.7 | X | X | X | X |
-| Huurwoningen.nl | Huurportaal.nl | 4.4 | X | X | X | X |
-| Kamer.nl | 0 | X | X | X |  |
-| Stadium |  |  | X | X |  |
-| MaliepaardBrokers | NA |  | X | X |  |
-| MB275 | NA | X | X |  |  |
-| Old Delft Brokerage | NA |  | X | X |  |
-| OurDomain Rotterdam Blaak - Holidays | NA | X | X |  |  |
-| Villaci |  |  | X | X |  |
-| Plaza Resident Services - Not Private | 0 | X |  |  |  |
-| Rock - Fixed Group | NA | X | X | X | X |
-| Sealed Management | NA | X |  |  |  |
-| Son's Real Estate | NA | X |  |  | X |
-| vestia | 1.9 | X | X | X |  |
+| Housing organization                    | Trust Pilot    | Student acc. | Couple | Family | Shared |
+|-----------------------------------------|----------------|--------------|--------|--------|--------|
+| RoomPlaza                               | 4.4            | X            | X      | X      | X      |
+| Bjornd Brokerage                        | NA             |              | X      | X      |        |
+| Funda                                   | 1.9            | X            | X      | X      | X      |
+| Pararius - Homeland Real Estate ^       | 4.7            | X            | X      | X      |        |
+| Holland Homestay                        | NA             | X            | X      |        | X      |
+| Rooms in Delft - Holidays               | Rent Slam      | 0            | X      |        |        |  |
+| Rooms.nl - Idealis vs DUWO              | XIOR           | 3.3          | X      | X      | X      | X |
+| Kamernet.nl                             | 3.5            | X            |        |        | X      |
+| Student Housing The Hague               | 4.3            | X            | X      |        | X      |
+| The Social Hub - Holidays               | NA             | X            | X      |        |        |
+| 4-Freedom Property Management           | NA             | X            | X      | X      | X      |
+| Be Home                                 | NA             | X            | X      | X      |        |
+| Direct Living                           | NA             | X            | X      | X      | X      |
+| Homelets.nl                             | 2.9            | X            | X      | X      | X      |
+| HometoGo - Not Private and Holidays     | 2.4            |              |        |        |        |
+| Hostel Delft - Not Private and Holidays | NA             |              |        |        |        |
+| Housing source                          | 2.3            | X            | X      | X      |        |
+| HousingAnywhere                         | 3.7            | X            | X      | X      | X      |
+| Huurwoningen.nl                         | Huurportaal.nl | 4.4          | X      | X      | X      | X |
+| Kamer.nl                                | 0              | X            | X      | X      |        |
+| Stadium                                 |                |              | X      | X      |        |
+| MaliepaardBrokers                       | NA             |              | X      | X      |        |
+| MB275                                   | NA             | X            | X      |        |        |
+| Old Delft Brokerage                     | NA             |              | X      | X      |        |
+| OurDomain Rotterdam Blaak - Holidays    | NA             | X            | X      |        |        |
+| Villaci                                 |                |              | X      | X      |        |
+| Plaza Resident Services - Not Private   | 0              | X            |        |        |        |
+| Rock - Fixed Group                      | NA             | X            | X      | X      | X      |
+| Sealed Management                       | NA             | X            |        |        |        |
+| Son's Real Estate                       | NA             | X            |        |        | X      |
+| vestia                                  | 1.9            | X            | X      | X      |        |
 
 ### Apps
 
-| [My TU Delft](https://apps.apple.com/nl/app/my-tu-delft-student/id1395269408) | [Brightspace Pulse](https://apps.apple.com/nl/app/brightspace-pulse/id1001688546) | [Uni-Life](https://apps.apple.com/nl/app/uni-life/id1320860920) (Not as useful as Clubs) | [OVPay](https://apps.apple.com/nl/app/ovpay/id1542164084) (Not as useful as Kiosk) | [NS](https://apps.apple.com/nl/app/ns/id370362301)
-(Primary) | [9292](https://apps.apple.com/nl/app/9292-reisplanner-ov-e-ticket/id556557690) (Secondary) | [Google Translate](https://apps.apple.com/nl/app/google-translate/id414706506) |
-| --- | --- | --- | --- | --- | --- | --- |
+| [My TU Delft](https://apps.apple.com/nl/app/my-tu-delft-student/id1395269408) | [Brightspace Pulse](https://apps.apple.com/nl/app/brightspace-pulse/id1001688546) | [Uni-Life](https://apps.apple.com/nl/app/uni-life/id1320860920) (Not as useful as Clubs) | [OVPay](https://apps.apple.com/nl/app/ovpay/id1542164084) (Not as useful as Kiosk) | [NS](https://apps.apple.com/nl/app/ns/id370362301) (Primary) | [9292](https://apps.apple.com/nl/app/9292-reisplanner-ov-e-ticket/id556557690) (Secondary) | [Google Translate](https://apps.apple.com/nl/app/google-translate/id414706506) |
+|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+
 
 ### Weather in Delft
 
-| Month | Temperature | Rainy Days | Dry Days | Snowy Days | Rainfall (mm) | Weather |
-| --- |-----------| --- | --- | --- |------------| --- |
-| [January](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=January) | 6° / 4°   | 10 | 18 | 4 | 107        | Awful |
-| [February](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=February) | 6° / 3°   | 8 | 16 | 4 | 78      | Awful |
-| [March](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=March) | 9° / 5°   | 6 | 24 | 1 | 67      | Ok |
-| [April](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=April) | 13° / 7°  | 3 | 26 | 1 | 45      | Ok |
-| [May](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=May) | 15° / 10° | 5 | 26 | 0 | 79      | Good |
-| [June](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=June) | 18° / 13° | 5 | 25 | 0 | 90      | Good |
-| [July](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=July) | 20° / 16° | 7 | 24 | 0 | 116     | Ok |
-| [August](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=August) | 21° / 16° | 7 | 24 | 0 | 138     | Ok |
-| [September](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=September) | 19° / 14° | 6 | 24 | 0 | 109     | Good |
-| [October](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=October) | 15° / 11° | 8 | 23 | 0 | 124     | Ok |
-| [November](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=November) | 11° / 8°  | 7 | 22 | 1 | 115     | Bad |
-| [December](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=December) | 8° / 5°   | 10 | 18 | 3 | 118     | Awful |
+| Month                                                                                                   | Temperature | Rainy Days | Dry Days | Snowy Days | Rainfall (mm) | Weather |
+|---------------------------------------------------------------------------------------------------------|-------------|------------|----------|------------|---------------|---------|
+| [January](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=January)     | 6° / 4°     | 10         | 18       | 4          | 107           | Awful   |
+| [February](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=February)   | 6° / 3°     | 8          | 16       | 4          | 78            | Awful   |
+| [March](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=March)         | 9° / 5°     | 6          | 24       | 1          | 67            | Ok      |
+| [April](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=April)         | 13° / 7°    | 3          | 26       | 1          | 45            | Ok      |
+| [May](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=May)             | 15° / 10°   | 5          | 26       | 0          | 79            | Good    |
+| [June](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=June)           | 18° / 13°   | 5          | 25       | 0          | 90            | Good    |
+| [July](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=July)           | 20° / 16°   | 7          | 24       | 0          | 116           | Ok      |
+| [August](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=August)       | 21° / 16°   | 7          | 24       | 0          | 138           | Ok      |
+| [September](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=September) | 19° / 14°   | 6          | 24       | 0          | 109           | Good    |
+| [October](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=October)     | 15° / 11°   | 8          | 23       | 0          | 124           | Ok      |
+| [November](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=November)   | 11° / 8°    | 7          | 22       | 1          | 115           | Bad     |
+| [December](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=December)   | 8° / 5°     | 10         | 18       | 3          | 118           | Awful   |
 
 ### Things to Bring to TU Delft
 
-| S/N | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) | S/N | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) |
-| --- | --- | --- | --- |
-| 1 | Passport | 7 | Birth (Compulsory) + Marriage Cert. (Optional)  |
-| 2 | VISA from Embassy | 8 | [Driver's License | International Driving Permit 1 Year](https://idponline.aas.com.sg/pages/Application?spm=BlogArticle.InArticleHyperlinkWord&clickId=06a832f733) |
-| 3 | High School & Uni Certs | 9 | Handphone | Laptop | Chargers |
-| 4 | TU Delft Official Letter | 10 | Clothes for Summer & Winter |
-| 5 | Insurance Papers | 11 | Medicine |
-| [6](https://www.klook.com/en-SG/blog/international-drivers-permit-singapore/) | [Housing Contract + Host ID Hardcopy](https://www.delft.nl/en/moving-delft-abroad) | 12 | Money - 10K USD < |
+| S/N                                                                           | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) | S/N | [Items to Bring](https://www.tudelft.nl/studenten/faculteiten/tbm-studentenportal/international-student/prepare-your-stay/checklist) |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------------------------------------------------------|
+| 1                                                                             | Passport                                                                                                                             | 7   | Birth (Compulsory) + Marriage Cert. (Optional)                                                                                       |
+| 2                                                                             | VISA from Embassy                                                                                                                    | 8   | [Driver's License                                                                                                                    | International Driving Permit 1 Year](https://idponline.aas.com.sg/pages/Application?spm=BlogArticle.InArticleHyperlinkWord&clickId=06a832f733) |
+| 3                                                                             | High School & Uni Certs                                                                                                              | 9   | Handphone                                                                                                                            | Laptop | Chargers |
+| 4                                                                             | TU Delft Official Letter                                                                                                             | 10  | Clothes for Summer & Winter                                                                                                          |
+| 5                                                                             | Insurance Papers                                                                                                                     | 11  | Medicine                                                                                                                             |
+| [6](https://www.klook.com/en-SG/blog/international-drivers-permit-singapore/) | [Housing Contract + Host ID Hardcopy](https://www.delft.nl/en/moving-delft-abroad)                                                   | 12  | Money - 10K USD <                                                                                                                    |
 
 ## Arriving in the Netherlands
 
@@ -214,11 +214,11 @@ Rules for Cyclists
 
 ### Supermarkets
 
-| € |  | €€ |  | €€€ |  | €€€€ |
-| --- | --- | --- | --- | --- | --- | --- |
-| ALDI |  | DIRK |  | COOP |  | SPAR in TU Delft |
-| LIDL |  | JUMBO |  | PLUS |  | AH To Go |
-| Thu| Sat Market |  | Albert Heijn | AH |  | SPAR |  |  |
+| €    |            | €€    |              | €€€  |  | €€€€             |
+|------|------------|-------|--------------|------|--|------------------|
+| ALDI |            | DIRK  |              | COOP |  | SPAR in TU Delft |
+| LIDL |            | JUMBO |              | PLUS |  | AH To Go         |
+| Thu  | Sat Market |       | Albert Heijn | AH   |  | SPAR             |  |  |
 
 | Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                 |
 |---------------------------------------------------------------------------|-----------------------------------------------------|
@@ -246,10 +246,10 @@ Rules for Cyclists
 
 ### Household Products and Tools
 
-| € |  | €€ |  | €€€ |  | €€€€ |
-| --- | --- | --- | --- | --- | --- | --- |
-| Action |  | Ikea |  | Hema |  | Blokker |
-|  |  |  |  | [Praxis](https://www.praxis.nl/badkamer-keuken-wonen/opbergen/opbergrekken/schoenenrek-metaal-4-laags-zwart-50-x-19-x-65-cm/10150311) |  | Ako |
+| €      |  | €€   |  | €€€                                                                                                                                   |  | €€€€    |
+|--------|--|------|--|---------------------------------------------------------------------------------------------------------------------------------------|--|---------|
+| Action |  | Ikea |  | Hema                                                                                                                                  |  | Blokker |
+|        |  |      |  | [Praxis](https://www.praxis.nl/badkamer-keuken-wonen/opbergen/opbergrekken/schoenenrek-metaal-4-laags-zwart-50-x-19-x-65-cm/10150311) |  | Ako     |
 
 Things Worth Buying in **Action**
 
@@ -338,28 +338,28 @@ Recommendation: Private Food Outlets Between Civil Engineering and Echo offer go
 1. [The Hangout - Vietnamese & More](https://maps.app.goo.gl/AajxvvKuwSToPMZo7)
 2. [Food Station](https://maps.app.goo.gl/gq9fH5jdiHoXuaV69)
 
-| **S/N** | **FACULTY / BUILDING** | **AVAILABLE FOOD OUTLETS** |
-| --- | --- | --- |
-| 1 | ARCHITECTURE AND THE BUILT ENVIRONMENT (ARCH) | FOODTURE
-COFFEE & CO |
-| 2 | TECHNOLOGY, POLICY AND MANAGEMENT (TPM) | GOODISH |
-| 3 | INDUSTRIAL DESIGN ENGINEERING (IDE)  | FOODSQUARE |
-| 4 | COFFEE & BIKES | COFFEE-STAR |
-| 5 | PULSE | FOOD MARKET |
-| 6 | MECHANICAL ENGINEERING (ME) | LEMONS & BEANS |
-| 7 | AULA CONFERENCE CENTRE | FOODSQUARE
-FACULTY CLUB |
-| 8 | ELECTRIC ENGINEERING, MATHEMATICS &
-COMPUTER SCIENCE (EEMCS) | GOODISH
-COFFEE & CO |
-| 9 | CIVIL ENGINEERING AND GEOSCIENCES (CEG) | FOODSQUARE
-LEMONS & BEANS |
-| 10 | ЕСНО | FOODTURE
-COFFEE & CO |
-| 11 | AEROSPACE ENGINEERING (AE) | GOODISH |
-| 12 | THE FELLOWSHIP | FOOD MARKET |
-| 13 | APPLIED SCIENCES (AS) | GOODISH |
-| 14 | REACTOR INSTITUTE DELFT | POWERKITCHEN |
+| **S/N**                  | **FACULTY / BUILDING**                        | **AVAILABLE FOOD OUTLETS** |
+|--------------------------|-----------------------------------------------|----------------------------|
+| 1                        | ARCHITECTURE AND THE BUILT ENVIRONMENT (ARCH) | FOODTURE                   |
+| COFFEE & CO              |                                               |                            |
+| 2                        | TECHNOLOGY, POLICY AND MANAGEMENT (TPM)       | GOODISH                    |
+| 3                        | INDUSTRIAL DESIGN ENGINEERING (IDE)           | FOODSQUARE                 |
+| 4                        | COFFEE & BIKES                                | COFFEE-STAR                |
+| 5                        | PULSE                                         | FOOD MARKET                |
+| 6                        | MECHANICAL ENGINEERING (ME)                   | LEMONS & BEANS             |
+| 7                        | AULA CONFERENCE CENTRE                        | FOODSQUARE                 |
+| FACULTY CLUB             |                                               |                            |
+| 8                        | ELECTRIC ENGINEERING, MATHEMATICS &           |                            |
+| COMPUTER SCIENCE (EEMCS) | GOODISH                                       |                            |
+| COFFEE & CO              |                                               |                            |
+| 9                        | CIVIL ENGINEERING AND GEOSCIENCES (CEG)       | FOODSQUARE                 |
+| LEMONS & BEANS           |                                               |                            |
+| 10                       | ЕСНО                                          | FOODTURE                   |
+| COFFEE & CO              |                                               |                            |
+| 11                       | AEROSPACE ENGINEERING (AE)                    | GOODISH                    |
+| 12                       | THE FELLOWSHIP                                | FOOD MARKET                |
+| 13                       | APPLIED SCIENCES (AS)                         | GOODISH                    |
+| 14                       | REACTOR INSTITUTE DELFT                       | POWERKITCHEN               |
 
 ### Clubs
 
