@@ -163,13 +163,13 @@ To save 40% off NS Trains during off-peak hours, weekends and public holidays, y
 
 Refer to HTM Tram and Bus Map Below.
 
-[HTM.pdf](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/HTM.pdf)
+[HTM.pdf](TU Delft - Survival Guide - HTM.pdf)
 
 ### Phone Plan
 
 The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
 
-![Lebara.png](TU%20Delft%20-%20Survival%20Guide%202d70eb2395d04938a07fcc280d94aeef/Lebara.png)
+![TU Delft - Survival Guide - Lebara.png](TU Delft - Survival Guide - Lebara.png)
 
 ### Cycling
 
