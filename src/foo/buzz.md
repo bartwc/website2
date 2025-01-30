@@ -110,6 +110,12 @@ Captions can be added to OBS using Maestra: [https://maestra.ai/tools/web-captio
 
 [Tutorial – Typst Documentation](https://typst.app/docs/tutorial/)
 
+### Career Guide
+
+You can keep a look-out for career related events i.e. EEMCS Recruitment Day, Delft Career Days. Not all are free. So, please check for the programme and register if interested.
+
+Another portal you can use is [TU Delft Your Career Portal](https://tudelft.jobteaser.com/en/job-offers)
+
 ### Conclusion
 
 Quarter 1 is hectic and packed. The learning curve may be extremely daunting, but it may be less so with careful preparation and adjustment. By following the steps outlined in this blog post and taking advantage of the resources available to you, you can make a smooth transition to student life in the CESE Programme. Good luck on your journey!
