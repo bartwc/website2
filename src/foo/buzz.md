@@ -22,10 +22,10 @@ One of the most informative website is the [course browser search](https://www.s
 
 ## Second Year (60 EC)
 
-| Q1                                 | Q2                     | Q3 | Q4 |
-|------------------------------------|------------------------|----|----|
-| Joint Interdisciplinary Project or | Thesis Project 45 EC   |    |    |
-| Internship or                      | Elective Courses 15 EC |    |    |
+| Q1                                   | Q2                   | Q3 | Q4 |
+|--------------------------------------|----------------------|----|----|
+| Joint Interdisciplinary Project or   | Thesis Project 45 EC |    |    |
+| Internship or Elective Courses 15 EC |                      |    |    |
 
 Then you go to [Brightspace](https://login.tudelft.nl/sso/module.php/core/loginuserpass.php?AuthState=_dacbefd3bdaab0b27019e5098c7fbf37a6bd4d671d%3Ahttps%3A%2F%2Flogin.tudelft.nl%2Fsso%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fengine.surfconext.nl%252Fauthentication%252Fsp%252Fmetadata%26cookieTime%3D1724878421https://login.tudelft.nl/sso/module.php/core/loginuserpass.php?AuthState=_dacbefd3bdaab0b27019e5098c7fbf37a6bd4d671d%3Ahttps%3A%2F%2Flogin.tudelft.nl%2Fsso%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fengine.surfconext.nl%252Fauthentication%252Fsp%252Fmetadata%26cookieTime%3D1724878421) to enrol into the courses. Attend the lectures and finish all the assignments, quizzes, tests and exams to attain the necessary credits. 60 Credits are required for Year 1 and another 60 Credits for Year 2.
 
