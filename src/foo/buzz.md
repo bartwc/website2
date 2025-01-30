@@ -94,7 +94,7 @@ To understand Git for coding, here are four websites that provide visual explana
 
 ### 4 - Messaging Apps
 
-In CESE, Microsoft Teams, Discord are used.
+In CESE, Microsoft Teams (Used in Systems Engineering), Discord (Stopped since 2025), and WhatsApp (Only Amongst Students) are used.
 
 ### 5 - OBS
 
@@ -104,7 +104,7 @@ Captions can be added to OBS using Maestra: [https://maestra.ai/tools/web-captio
 
 ### Free Guides
 
-[](https://sci-hub.se/)
+[sci-hub.se/](https://sci-hub.se/)
 
 [From data to Viz | Find the graphic you need](https://www.data-to-viz.com/#violin)
 

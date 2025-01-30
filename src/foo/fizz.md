@@ -168,7 +168,7 @@ Refer to HTM Tram and Bus Map Below.
 ### Phone Plan
 
 The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
-![TUDelft-SurvivalGuide-Lebara.png](TUDelft-SurvivalGuide-Lebara.png)
+
 
 ### Cycling
 
@@ -281,6 +281,7 @@ You should also [visit attractions](https://www.delft.com/must-see-attractions-n
 Adjusting to student life at TU Delft can be challenging, but there are many resources available to help you. The university offers a wide range of support services, including academic support, career services, and mental health support. You can also take advantage of cultural activities and events on campus to help you integrate into the TU Delft community.
 
 ### WiFi
+[All WiFi Manuals on TU Delft Website](https://www.tudelft.nl/en/it-manuals/network/network/)
 
 Login with ‘NetID@tudelft.nl’ and your password
 Android - Set EAP to PEAP → Set Phase 2 to MSCHAPV2 → Set domain to ‘[tudelft.nl](http://tudelft.nl/)’ → Set CA certificate to ‘Use System Certificates’
