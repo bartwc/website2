@@ -168,7 +168,7 @@ Refer to HTM Tram and Bus Map Below.
 ### Phone Plan
 
 The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
-![TUDelft-Survival Guide-Lebara.png](TUDelft-SurvivalGuide-Lebara.png)
+![TUDelft-SurvivalGuide-Lebara.png](TUDelft-SurvivalGuide-Lebara.png)
 
 ### Cycling
 

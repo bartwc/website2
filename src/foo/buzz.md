@@ -8,28 +8,24 @@ Entering the Faculty of Electrical Engineering, Mathematics, and Computer Scienc
 
 One of the most informative website is the [course browser search](https://www.studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=30874). By following the search parameters, you will know the compulsory courses that you have to take in EEMCS - Computer and Embedded Systems Engineering Masters. Please note that if your Bachelors Specialization was in Electrical Engineering, you are required to take Software Fundamentals and vice versa, Computer Science undergraduates would need to take Hardware Fundamentals in Semester 1.
 
-![Untitled](TU%20Delft%20-%20EEMCS%20-%20CESE%20Guide%20eb148cae96d349c49c50f83a78467b48/Untitled.png)
+![TUDelft-CESEGuide-StudentGuide.png](TUDelft-CESEGuide-StudentGuide.png)
 
 ### [Alternate View of Programme Courses](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering/programme-in-detail)
 
-| First Year ( 60 EC )                 |                          |                                         |    |
-|--------------------------------------|--------------------------|-----------------------------------------|----|
-| Q1                                   | Q2                       | Q3                                      | Q4 |
-| Adv . Computing Systems 5EC          | Real Time Systems        |                                         |    |
-| 5EC                                  | Embedded Systems Lab 5EC | Effective & Responsible Engineering 5EC |    |
-| Systems Engineering                  |                          |                                         |    |
-| 5EC                                  | Software Systems         |                                         |    |
-| 5EC                                  | Computer Arithmetic 5EC  | Processor Design Project 5EC            |    |
-| Software / Hardware Fundamentals 5EC | Specialization           |                                         |    |
-| 5EC                                  | Specialization           |                                         |    |
-| 5EC                                  | Specialization           |                                         |    |
-| 5EC                                  |                          |                                         |    |
-| **Second Year ( 60 EC )**            |                          |                                         |    |
-| Q1                                   | Q2                       | Q3                                      | Q4 |
-| Joint Interdisciplinary Project or   | Thesis Project           |                                         |    |
-| 45EC                                 |                          |                                         |    |
-| Internship or                        |                          |                                         |    |
-| Elective Courses 15 EC               |                          |                                         |    |
+## First Year (60 EC)
+
+| Q1                                    | Q2                     | Q3                        | Q4                                       |
+|---------------------------------------|------------------------|---------------------------|------------------------------------------|
+| Adv. Computing Systems 5 EC           | Real Time Systems 5 EC | Embedded Systems Lab 5 EC | Effective & Responsible Engineering 5 EC |
+| Systems Engineering 5 EC              | Software Systems 5 EC  | Computer Arithmetic 5 EC  | Processor Design Project 5 EC            |
+| Software / Hardware Fundamentals 5 EC | Specialization 5 EC    | Specialization 5 EC       | Specialization 5 EC                      |
+
+## Second Year (60 EC)
+
+| Q1                                 | Q2                     | Q3 | Q4 |
+|------------------------------------|------------------------|----|----|
+| Joint Interdisciplinary Project or | Thesis Project 45 EC   |    |    |
+| Internship or                      | Elective Courses 15 EC |    |    |
 
 Then you go to [Brightspace](https://login.tudelft.nl/sso/module.php/core/loginuserpass.php?AuthState=_dacbefd3bdaab0b27019e5098c7fbf37a6bd4d671d%3Ahttps%3A%2F%2Flogin.tudelft.nl%2Fsso%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fengine.surfconext.nl%252Fauthentication%252Fsp%252Fmetadata%26cookieTime%3D1724878421https://login.tudelft.nl/sso/module.php/core/loginuserpass.php?AuthState=_dacbefd3bdaab0b27019e5098c7fbf37a6bd4d671d%3Ahttps%3A%2F%2Flogin.tudelft.nl%2Fsso%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dhttps%253A%252F%252Fengine.surfconext.nl%252Fauthentication%252Fsp%252Fmetadata%26cookieTime%3D1724878421) to enrol into the courses. Attend the lectures and finish all the assignments, quizzes, tests and exams to attain the necessary credits. 60 Credits are required for Year 1 and another 60 Credits for Year 2.
 
@@ -61,11 +57,11 @@ However, if you are comfortable with installing it via the command line terminal
 
 To enable CLion, you first need to [register a free student account](https://account.jetbrains.com/login) with your student email. With your new student account, you can login to activate your JetBrains account on CLion.
 
-![Untitled](TU%20Delft%20-%20EEMCS%20-%20CESE%20Guide%20eb148cae96d349c49c50f83a78467b48/Untitled%201.png)
+![TUDelft-CESEGuide-CLion.png](TUDelft-CESEGuide-CLion.png)
 
 Install the Rust Plugin. Access the Plugin Window via the Settings Gear icon on the top-right of CLion IDE Window.
 
-![Untitled](TU%20Delft%20-%20EEMCS%20-%20CESE%20Guide%20eb148cae96d349c49c50f83a78467b48/Untitled%202.png)
+![TUDelft-CESEGuide-Rust.png](TUDelft-CESEGuide-Rust.png)
 
 ### 2 - LaTeX
 
