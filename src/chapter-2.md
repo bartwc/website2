@@ -1,95 +1,77 @@
-# Chapter 2 - Resume Example
+# Resume - Barry Tee
+==================
 
-Johnny Coder
-============
-
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-----------------------------------------------
+weicong1@hotmail.com | [LinkedIn](https://www.linkedin.com/in/barryt6/)
+-----------------------------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2018
+:   **Bachelor of Engineering (Engineering Product Development), Honours**; Singapore University of Technology and Design (SUTD)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Specialisation: Electrical Engineering*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Exchange Program to Zhejiang University (ZJU) Asian Leadership Programme (ALP) – Awarded to top 30% of
+    the SUTD cohort; Granted the Temasek Foundation Leadership Enrichment and Regional Networking Programme Scholarship (May 16 – Aug 16)*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**DSO National Laboratories, Guided Systems | Member Technical Staff**  
+_Nov 18 to Present_
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Design electronic printed circuit boards for customised applications in aviation electronics:
 
-* First item
+* Implement electronic systems i.e., Design, Test, Integrate and Field Trials for cutting-edge tech projects worth millions of dollars
+* Conceptualised and refined electronic hardware architectures for Swarm UAVs that are highly demanding in Size, Weight, Power and Cost (SWaP-C)
+* Researched various motors and lithium chemistry batteries to enhance flight times for UAVs by another 50%, incorporating test setups to validate theoretical calculations
+* Mentored 3 interns and supervised their contributions on a UAV project
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**DSO National Laboratories, Guided Systems | Intern**  
+_Sep 18 to Nov 18_
 
-**That Other Job You Had**
+Assisted in the integration of avionics in a Hybrid Fixed Wing Vertical Take-off and Landing (VTOL) Unmanned Aerial Vehicle (UAV):
 
-Also with a short description.
+* Secured full-time return offer
+
+**ST Engineering Aerospace, Advanced Systems Department | Intern**  
+_May 17 to Aug 17_
+
+Led a team of 4 to design, prototype and fly a mini-drone for reconnaissance with autonomous functions:
+
+* Developed a transition flight UAV from installation, tuning, and flight testing based on a PixHawk mini flight controller under ST Aero Patent WO/2013/048339
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-list can be used to have named items.
+SUTD Capstone – Development of Drone for Payload Use
+:   Entrusted with 10,500 SGD to design, build, and fly a 1.3m Octocopter Drone.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Directed a team of 4 with different specialisations to integrate mechanical, electrical and software.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-the project names, for example the **Linux Kernel**, where you
-implemented multithreading over a long weekend, or **node.js**
-(with [link](http://nodejs.org)) which was actually totally
-your idea...
+ZJU ALP Industrial Project
+:   Entrusted with 13,200 RMB for “Fitting Robot” to reduce apparel return rate on e-commerce platforms.
+
+    * Conceptualised a robotic mannequin that morphs into customers’ body size to try on clothes remotely.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-to add descriptions to the first few items, but still want to
-mention some others together at the end. A format that works well
-here is a description list where the first few items have their
-first word emphasized, and the last item contains the final few
-emphasized terms. Notice the reasonably nice page break in the pdf
-version, which wouldn't happen if we generated the pdf via html.
+:   **Python, MATLAB, C:** Proficient
 
-:   **second-lang:** Description of your experience with second-lang,
-perhaps again including a [link] [ref], this time placing the url
-reference elsewhere in the document to reduce clutter (see source
-file).
+:   **C++, Machine Learning & Robot Operating System:** Exposed
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Skills
 ----------------------------------------
 
 * Human Languages:
 
-    * English (native speaker)
-    * ???
-    * This is what a nested list looks like.
+    * Native in English & Mandarin
 
-* Random tidbit
+* Software Skills:
 
-* Other sort of impressive-sounding thing you did
+    * Solidworks, Arduino, Cadence Electronics CAD, PSpice Software, Adobe Photoshop
+
+* Hobbies:
+
+    * Passion for drones, robots and running; Photography and videography.
