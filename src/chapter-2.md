@@ -1,6 +1,6 @@
 Resume - Barry Tee
 ==================
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 > CAA 06 Feb 2025
 
@@ -10,7 +10,7 @@ weicong1@hotmail.com | [LinkedIn](https://www.linkedin.com/in/barryt6/)
 
 Education
 ---------
-**Singapore University of Technology and Design (SUTD)**
+**Singapore University of Technology and Design (SUTD)**  
 _May 15 to Sep 18_
 
 * Bachelor of Engineering (Engineering Product Development), Honours
@@ -44,32 +44,21 @@ _May 17 to Aug 17_
 Technical Experience
 --------------------
 
-**SUTD Capstone (ADLER) – Development of Drone for Payload Use**
-
-_May 17 to Aug 17_
+**SUTD Capstone (ADLER) – Development of Drone for Payload Use | Electronics Lead**  
+_Jan 18 to Sep 18_
 
 * Entrusted with 10,500 SGD to design, build, and fly a 1.3m Octocopter Drone.
 * Directed a team of 4 with different specialisations to integrate mechanical, electrical and software.
 
-**ZJU ALP Industrial Project**
-
+**ZJU ALP Industrial Project | Mechanical Co-Lead**  
 _May 16 to Aug 16_
 
 * Entrusted with 13,200 RMB for “Fitting Robot” to reduce apparel return rate on e-commerce platforms.
 * Conceptualised a robotic mannequin that morphs into customers’ body size to try on clothes remotely.
 
-Programming Languages
----------------------
-
-:   **Python, MATLAB, C, Rust:** Proficient
-
-:   **C++, Machine Learning & Robot Operating System:** Exposed
-
 Skills
 ----------------------------------------
-
 * Human Languages: Native in English (Full Proficiency) & Mandarin (Bilingual Proficiency)
-
-* Software Skills: Solidworks, Arduino, Cadence Electronics CAD, PSpice Software, Adobe Photoshop
-
+* Programming Skills: Rust, Python, MATLAB, R, C/C++
+* Software Skills: PlantUML, FSM, DSL, Mentorgraphic, Solidworks, Arduino, Cadence Electronics CAD, PSpice Software, Adobe Photoshop
 * Hobbies: Passion for Drones, and Robots; Photography; Cycling
