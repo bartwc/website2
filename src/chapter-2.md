@@ -1,7 +1,7 @@
 Resume - Barry Tee
 ==================
 [![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) Reference Code / Inspired by
 > CAA 06 Feb 2025 | weicong1@hotmail.com | [LinkedIn](https://www.linkedin.com/in/barryt6/)
 
 Education
