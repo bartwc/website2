@@ -547,6 +547,255 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 <p>Another portal you can use is <a href="https://tudelft.jobteaser.com/en/job-offers">TU Delft Your Career Portal</a></p>
 <h3 id="conclusion-1"><a class="header" href="#conclusion-1">Conclusion</a></h3>
 <p>Quarter 1 is hectic and packed. The learning curve may be extremely daunting, but it may be less so with careful preparation and adjustment. By following the steps outlined in this blog post and taking advantage of the resources available to you, you can make a smooth transition to student life in the CESE Programme. Good luck on your journey!</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="coding-guidelines"><a class="header" href="#coding-guidelines">Coding guidelines</a></h1>
+<p><em>Reference - <a href="https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md">SerenityOS</a></em></p>
+<h2 id="human-language-policy"><a class="header" href="#human-language-policy">Human Language Policy</a></h2>
+<ul>
+<li>The official documentation language is English with ISO 8601 dates and metric units.</li>
+<li>Use proper spelling, grammar, and punctuation. Please use tooling (spell checkers, etc) to catch simple mistakes.</li>
+<li>Write in an authoritative and technical tone.</li>
+</ul>
+<h2 id="code-and-submission"><a class="header" href="#code-and-submission">Code and submission</a></h2>
+<h3 id="do"><a class="header" href="#do">Do:</a></h3>
+<ul>
+<li>Conform to the coding style found below. Use clang-format (version 12 or later) to automatically format C++ files.</li>
+<li>Choose expressive variable, function and class names. Make it easy to understand the logic flow of the code.</li>
+<li>Split your changes into separate, atomic commits (i.e. A commit per feature or fix, where the build, tests and the system are all functioning).</li>
+<li>Capitalise the subject line with a maximum of 72 characters.</li>
+<li>Use the body in a commit section to explain what and why, and not how.</li>
+<li>Make sure your commits are rebased on the main branch.</li>
+<li>Squash your commits when making revisions after a patch review.</li>
+</ul>
+<h3 id="dont"><a class="header" href="#dont">Don't:</a></h3>
+<ul>
+<li>Use the repository as a backup</li>
+<li>Iterate excessively on your design across multiple commits.</li>
+<li>Use imprecise words like "refactor" or "fix" to avoid explaining what's being changed.</li>
+<li>End commit message subject lines with a period.</li>
+<li>Include commented-out code.</li>
+<li>Write in C. (Instead, take advantage of C++'s amenities, and don't limit yourself to the standard C library.) Use C++ 17</li>
+<li>Move code around without quantifiable benefit.</li>
+</ul>
+<h1 id="c-coding-style"><a class="header" href="#c-coding-style">C++ coding style</a></h1>
+<p><em>Shamelessly stolen from <a href="https://webkit.org/blog/25/webkit-coding-style-guidelines/">WebKit</a></em></p>
+<h2 id="indenting"><a class="header" href="#indenting">Indenting</a></h2>
+<ul>
+<li>Use spaces to indent. Tabs should not appear in code files (with the exception of files that require them e.g. Makefiles).</li>
+<li>The indent size is 4 spaces.</li>
+<li>Code editors should be configured to expand tabs that you type to 4 spaces.</li>
+</ul>
+<h2 id="braces"><a class="header" href="#braces">Braces</a></h2>
+<ul>
+<li>Function definitions – open and close braces should be on lines by themselves. Do not put the open brace on the same line as the function signature. For example:</li>
+</ul>
+<p>Right:</p>
+<pre><code>    void foo()
+    {
+        // do stuff
+    }
+</code></pre>
+<h3 id="wrong"><a class="header" href="#wrong">Wrong:</a></h3>
+<pre><code>    void foo() {
+        // do stuff
+    }
+</code></pre>
+<ul>
+<li>Loop control structures, including for, while and do statements – the open brace should go on the same line as the as the control structure.</li>
+</ul>
+<h3 id="right"><a class="header" href="#right">Right:</a></h3>
+<pre><code>    for (int i = 0; i &lt; 10; i++) {
+        // do stuff
+    }
+</code></pre>
+<h3 id="wrong-1"><a class="header" href="#wrong-1">Wrong:</a></h3>
+<pre><code>    for (int i = 0; i &lt; 10; i++) 
+    {
+        // do stuff
+    }
+</code></pre>
+<ul>
+<li>If/else statements - as above, but if there is an else clause, the close brace should go on the same line as the else. Also, one-line if or else clauses should not get braces.</li>
+</ul>
+<h3 id="right-1"><a class="header" href="#right-1">Right:</a></h3>
+<pre><code>    if (timeToGetCoffee) {
+        buyCoffee(&amp;coffee);
+        chugIt(coffee);
+    } else if (timeToGoHome)
+        // comment on else case
+        outtaHere = true;
+</code></pre>
+<h3 id="wrong-2"><a class="header" href="#wrong-2">Wrong:</a></h3>
+<pre><code>    if (timeToGetCoffee)
+    {
+        buyCoffee(&amp;coffee);
+        chugIt(coffee);
+    // comment on else case
+    } else if (timeToGoHome) 
+    {
+        outtaHere = true;
+    }
+            
+    if (timeToGetCoffee) {
+    } 
+    else
+
+    // comment on else case
+
+    if (timeToGoHome) 
+        outtaHere = true;
+</code></pre>
+<h2 id="parentheses"><a class="header" href="#parentheses">Parentheses</a></h2>
+<ul>
+<li>Function declarations and calls – do not use any spaces between the name and the open paren, inside the parentheses, or before commas that separate arguments. Do use a single space after commas that separate arguments.</li>
+</ul>
+<h3 id="right-2"><a class="header" href="#right-2">Right:</a></h3>
+<pre><code>    int myFunction(int arg1, float arg2);
+
+    void noArgFunction(); // for C++ 
+
+    void noArgFunction(void); // for C
+</code></pre>
+<h3 id="wrong-3"><a class="header" href="#wrong-3">Wrong:</a></h3>
+<pre><code>    int myFunction (int arg1, float arg2);
+
+    int myFunction( int arg1 , float arg2 );
+
+    void noArgFunction ();
+</code></pre>
+<ul>
+<li>Control structures, such as if, while, do and switch – use a single space before the open paren, but no spaces inside the parentheses.</li>
+</ul>
+<h2 id="null-false-and-0"><a class="header" href="#null-false-and-0">Null, false and 0</a></h2>
+<ul>
+<li>In C++, the null pointer value should be written as 0. In C it should be written as NULL.</li>
+<li>True and false values of type bool (common in C and C++), or just generic true/false values, should be written as true and false.</li>
+<li>Tests for null pointers, false values and 0 values should all be done diretly, not through an inqueality or equality comparison.</li>
+</ul>
+<h3 id="right-3"><a class="header" href="#right-3">Right:</a></h3>
+<pre><code>    // test for true
+    if (foo-&gt;isSomething()) {
+        // code
+    }
+
+    // test for false
+    if (!foo-&gt;isSomething()) {
+        // code
+    }
+
+    // test for non-null
+    if (ptr) {
+       // code
+    }
+
+    // test for null
+    if (!ptr) {
+       // code
+    }
+
+    // test for nonzero
+    if (count) {
+        // code
+    }
+
+    // test for zero
+    if (!count) {
+        // code
+    }
+</code></pre>
+<h3 id="wrong-4"><a class="header" href="#wrong-4">Wrong:</a></h3>
+<pre><code>    if (foo-&gt;isSomething() == true) {
+        // code
+    }
+
+    if (foo-&gt;isSomething() != false) {
+        // code
+    }
+
+    if (p == NULL) {
+        // code
+    }
+
+    if (nil != p) {
+        // code
+    }
+
+    if (count == 0) {
+        // code
+    }
+</code></pre>
+<h2 id="names"><a class="header" href="#names">Names</a></h2>
+<ul>
+<li>General Rule: With very few exceptions, prefer embedded capitals instead of underscores for class, function and variable names.</li>
+<li>C++ classes, interfaces and protocols, and other type names – these names should start with a capital letter and use InterCaps.</li>
+</ul>
+<h3 id="right-4"><a class="header" href="#right-4">Right:</a></h3>
+<pre><code>    class MyImportantClass;
+</code></pre>
+<h3 id="wrong-5"><a class="header" href="#wrong-5">Wrong:</a></h3>
+<pre><code>    class My_important_class;
+
+    class myImportantClass;
+</code></pre>
+<ul>
+<li>Local variables should use interCaps, but the first word should start with a lowercase letter, like this:</li>
+</ul>
+<h3 id="right-5"><a class="header" href="#right-5">Right:</a></h3>
+<pre><code>    int myInt;
+</code></pre>
+<h3 id="wrong-6"><a class="header" href="#wrong-6">Wrong:</a></h3>
+<pre><code>    int MyInt;
+
+    int my_int;
+</code></pre>
+<ul>
+<li>Free function names in C++ should follow the same naming conventions as local variables. Most functions should be named to sound like verb phrases, like “openDoor” or “walkAroundTheBlock”. (getters, setters, predicates?)</li>
+<li>C++ data members should be named like local variables, but with a prefix of m_.</li>
+<li>C++ member functions should follow the same naming convention as free functions.</li>
+<li>Pointer and reference types – pointer types should be written with a space between the type name and the * (so the * is adjacent to the following identifier if any). For reference types, the &amp; goes next to the type name.</li>
+<li>Enum members should user InterCaps with an initial capital letter.</li>
+<li>#defined constants should use all uppercase names with words separated by underscores.</li>
+<li>Macros that expand to function calls or other non-constant computation: these should be (1) avoided if possible, (2) named like functions, and (3) should have parentheses at the end, even if they take no arguments. Note that usually it is preferrable to use an inline function in such cases instead of a macro.</li>
+</ul>
+<h3 id="right-6"><a class="header" href="#right-6">Right:</a></h3>
+<pre><code>    #define WBStopButtonTitle()  lookupString("Stop", "Go/Stop button title")
+</code></pre>
+<h3 id="wrong-7"><a class="header" href="#wrong-7">Wrong:</a></h3>
+<pre><code>    #define WB_STOP_BUTTON_TITLE  lookupString("Stop", "Go/Stop button title")
+
+    #define WBStopButtontitle  lookupString("Stop", "Go/Stop button title")
+</code></pre>
+<ul>
+<li>Acronyms in names: If an identifier includes an acronym, make the acronym all-uppercase or all-lowercase, depending on whether a word in that position would be capitalized or not.</li>
+</ul>
+<h3 id="right-7"><a class="header" href="#right-7">Right:</a></h3>
+<pre><code>    urlVariable
+    myURLAccessor:
+</code></pre>
+<h3 id="wrong-8"><a class="header" href="#wrong-8">Wrong:</a></h3>
+<pre><code>    uRLVariable
+    myUrlAccessor:
+</code></pre>
+<h2 id="doxygen-comments"><a class="header" href="#doxygen-comments">Doxygen comments</a></h2>
+<ul>
+<li>Each class, struct, enum and function should be documented with a Doxygen comment.</li>
+<li>Comments in general, and doxygen comments in particlar, should be written to explain the function and purpose of the code. If comments are needed to explain the internal logic of a special algorithm, do it in comments inside the function, just above the piece of code in question.</li>
+<li>A Doxygen comment block should be defined by a comment block with three forward slashes (<code>///</code>) at the beginning of each line.</li>
+<li>Parameters in the documentation block are identified by a <code>@</code>.</li>
+</ul>
+<h3 id="right-8"><a class="header" href="#right-8">Right:</a></h3>
+<pre><code>    /// Calculate surface area of rectangle
+    ///
+    /// @x The horizontal dimension in metres
+    /// @y The vertical dimension in metres
+</code></pre>
+<h3 id="wrong-9"><a class="header" href="#wrong-9">Wrong:</a></h3>
+<pre><code>    /** 
+     * Calculate surface area of rectangle
+     *
+     * \x The horizontal dimension in metres
+     * \y The vertical dimension in metres
+     **/
+</code></pre>
 
                     </main>
 
