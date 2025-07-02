@@ -15,13 +15,23 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 ### **Thesis Types**
 
-| Type | Duration | Credits | Focus |
-|------|----------|---------|-------|
-| Research Thesis | 6-9 months | 45 EC | Original research contribution |
-| Industry Thesis | 6-9 months | 45 EC | Applied research in industry |
-| Literature Review | 3-4 months | 30 EC | Comprehensive literature analysis |
+| Type               | Duration   | Credits  | Focus                             |
+|--------------------|------------|----------|-----------------------------------|
+| Research Thesis    | 6-9 months | 45 EC    | Original research contribution    |
+| Industry Thesis    | 6-9 months | 45 EC    | Applied research in industry      |
 
 ## Pre-Thesis Preparation
+
+### Handle Thesis Admin via MaRe System
+
+[MaRe](https://mare.ewi.tudelft.nl/login) is the official Master Thesis Registration system for all EEMCS MSc programmes at TU Delft. All thesis committee and final examination forms must be submitted via MaRe.
+
+- **Register your thesis project** in MaRe as soon as you start your graduation process.
+- MaRe tracks your project progress, sends automated reminders for important deliverables, and simplifies administrative procedures (such as submitting proposals and committee forms).
+- **Students** enter project details and submit required forms; 
+- **supervisors and support staff** monitor progress and approve milestones.
+
+For more information and official instructions, see the [Master Formulieren page](https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren).
 
 ### **Timeline Planning**
 
@@ -42,6 +52,22 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 - Define research scope and objectives
 - Set up project timeline
 - Prepare workspace and tools
+
+The following timeline is recommended for a 45 EC MSc thesis at TU Delft EEMCS (e.g., Computer Engineering, Telecom, Embedded Systems, Microelectronics) from Start of Thesis:
+
+- **Month 0:** Update your Individual Exam Programme (IEP) and apply for the Thesis Entrance Permit.
+- **Month 1:** Enroll at your research group (e.g., SPS) using the membership form, define your thesis topic with your advisor, start your literature search, and give a 5-minute starting presentation in the MSc seminar.
+- **Month 3:** Submit the thesis committee form to the exam committee (at least 3 months before your planned graduation date).
+- **Month 4:** Present a 15-minute midterm presentation in the MSc seminar.
+- **Month 7:** Obtain permission ("green light") to defend your thesis, set your graduation date, and submit the final examination request form (at least 6 weeks before your defense).
+- **Month 8-9:** Defend your thesis and receive your MSc diploma!
+
+**Tips:**
+- You are the project leader: take responsibility for progress, reporting, and regular meetings with your advisors.
+- Attend MSc midterm seminars and defenses to learn from your peers and improve your own presentation skills.
+- Use the official EEMCS graduation policy and timeline to avoid administrative delays.
+
+For more details and forms, see the [SPS MSc thesis guidelines](https://sps.ewi.tudelft.nl/Education/mscguidelines.php) and [EEMCS Master Formulieren page](https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren).
 
 ### **Finding a Supervisor**
 
@@ -92,16 +118,16 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 ### **Page Requirements**
 
-| Section | Typical Length | Notes |
-|---------|----------------|-------|
-| Abstract | 250-300 words | Both English and Dutch |
-| Introduction | 5-8 pages | Problem statement and objectives |
-| Literature Review | 10-15 pages | Critical analysis of existing work |
-| Methodology | 8-12 pages | Detailed research approach |
-| Results | 15-25 pages | Data presentation and analysis |
-| Discussion | 10-15 pages | Interpretation and implications |
-| Conclusion | 3-5 pages | Summary and future work |
-| **Total** | **60-80 pages** | Excluding appendices |
+| Section            | Typical Length  | Notes                                |
+|--------------------|-----------------|--------------------------------------|
+| Abstract           | 250-300 words   | In English                           |
+| Introduction       | 5-8 pages       | Problem statement and objectives     |
+| Literature Review  | 10-15 pages     | Critical analysis of existing work   |
+| Methodology        | 8-12 pages      | Detailed research approach           |
+| Results            | 15-25 pages     | Data presentation and analysis       |
+| Discussion         | 10-15 pages     | Interpretation and implications      |
+| Conclusion         | 3-5 pages       | Summary and future work              |
+| **Total** | **60-80 pages**          | Excluding appendices                 |
 
 ### **Formatting Requirements**
 
@@ -135,13 +161,13 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 ### **Data Collection Methods**
 
-| Method | Advantages | Disadvantages | Best For |
-|--------|------------|---------------|----------|
-| Surveys | Large sample size, standardized | Low response rate, limited depth | Quantitative studies |
-| Interviews | Rich data, flexibility | Time-consuming, small sample | Qualitative studies |
-| Experiments | Control, causality | Artificial setting, ethical concerns | Scientific research |
-| Case Studies | Detailed analysis, real context | Limited generalizability | Applied research |
-| Literature Review | Comprehensive overview | No new data collection | Theoretical studies |
+| Method             | Advantages                        | Disadvantages                        | Best For |
+|--------------------|-----------------------------------|--------------------------------------|----------|
+| Surveys            | Large sample size, standardized   | Low response rate, limited depth     | Quantitative studies |
+| Interviews         | Rich data, flexibility            | Time-consuming, small sample         | Qualitative studies |
+| Experiments        | Control, causality                | Artificial setting, ethical concerns | Scientific research |
+| Case Studies       | Detailed analysis, real context   | Limited generalizability             | Applied research |
+| Literature Review  | Comprehensive overview            | No new data collection               | Theoretical studies |
 
 ### **Data Analysis**
 
@@ -254,45 +280,18 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 ## Quality Assurance
 
-### **Self-Assessment Checklist**
+### **Official TU Delft MSc Grading Rubrics**
 
-**Content Quality:**
-- [ ] Clear research question and objectives
-- [ ] Comprehensive literature review
-- [ ] Appropriate methodology
-- [ ] Thorough data analysis
-- [ ] Meaningful discussion and conclusions
+For the most current and detailed assessment criteria, refer to the official [TU Delft MSc Grading Rubrics 2016](TUDelft-ThesisGuide-MScGradingRubrics2016.pdf) document. This official document provides comprehensive evaluation standards used by thesis committees.
 
-**Technical Quality:**
-- [ ] Proper formatting and structure
-- [ ] Correct citations and references
-- [ ] Clear figures and tables
-- [ ] Consistent terminology
-- [ ] Error-free language
-
-**Academic Integrity:**
-- [ ] Original work and ideas
-- [ ] Proper attribution of sources
-- [ ] Ethical research conduct
-- [ ] Accurate data representation
-- [ ] No plagiarism
-
-### **Common Assessment Criteria**
-
-| Criterion | Weight | Description |
-|-----------|--------|-------------|
-| Research Quality | 30% | Originality, methodology, analysis |
-| Technical Content | 25% | Depth, accuracy, relevance |
-| Presentation | 20% | Structure, clarity, formatting |
-| Critical Thinking | 15% | Analysis, evaluation, synthesis |
-| Communication | 10% | Writing quality, organization |
+![Thesis assessment grading scheme MSc - Faculty of EEMCS](TUDelft-ThesisGuide-MScGradingRubrics2016.png)
 
 ## Submission and Defense
 
 ### **Pre-Submission Checklist**
 
 - [ ] All chapters completed and reviewed
-- [ ] Abstract in English and Dutch
+- [ ] Abstract written
 - [ ] References properly formatted
 - [ ] Appendices included
 - [ ] Plagiarism check completed
@@ -311,26 +310,13 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 ### **Thesis Defense**
 
-**Preparation:**
-- Practice presentation multiple times
-- Prepare for potential questions
-- Review your methodology and results
-- Anticipate criticism and prepare responses
-
 **Presentation Structure:**
 - Introduction (2-3 minutes)
 - Problem statement and objectives (3-4 minutes)
-- Methodology (5-6 minutes)
-- Results and analysis (8-10 minutes)
+- Methodology (7-8 minutes)
+- Results and analysis (9-11 minutes)
 - Conclusions and recommendations (3-4 minutes)
 - Questions and discussion (15-20 minutes)
-
-**Defense Tips:**
-- Speak clearly and confidently
-- Use visual aids effectively
-- Be honest about limitations
-- Accept criticism gracefully
-- Demonstrate deep understanding
 
 ## Resources and Support
 
@@ -346,7 +332,6 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 
 **Writing and Formatting:**
 - LaTeX (Overleaf) - Professional document formatting
-- Microsoft Word - Standard word processing
 - Zotero/Mendeley - Reference management
 - Grammarly - Grammar and style checking
 
@@ -357,10 +342,9 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 - Git - Version control for code
 
 **Project Management:**
-- Trello/Asana - Task organization
+- Teams - Task organization
 - Notion - Note-taking and organization
 - Google Calendar - Timeline management
-- Pomodoro Timer - Time management
 
 ### **Online Resources**
 
@@ -370,64 +354,7 @@ A thesis at TU Delft typically represents 45 EC (European Credits) and is conduc
 - **arXiv**: Preprint papers
 - **IEEE/ACM Digital Libraries**: Technical papers
 
-## Common Challenges and Solutions
-
-### **Time Management**
-
-**Challenge**: Balancing thesis work with other commitments
-**Solutions**:
-- Create detailed timeline with milestones
-- Use time-blocking techniques
-- Set realistic daily/weekly goals
-- Prioritize tasks effectively
-
-### **Writer's Block**
-
-**Challenge**: Difficulty starting or continuing writing
-**Solutions**:
-- Start with easiest sections
-- Use free-writing exercises
-- Take regular breaks
-- Change environment or routine
-
-### **Data Analysis Issues**
-
-**Challenge**: Complex or unexpected results
-**Solutions**:
-- Consult with supervisor early
-- Use multiple analysis approaches
-- Document all analysis steps
-- Seek statistical consultation
-
-### **Supervision Problems**
-
-**Challenge**: Limited supervisor availability or feedback
-**Solutions**:
-- Be proactive in communication
-- Prepare specific questions
-- Use alternative contact methods
-- Seek additional support if needed
-
 ## Success Tips
-
-### **Best Practices**
-
-1. **Start Early**: Begin planning and writing as soon as possible
-2. **Stay Organized**: Maintain clear file structure and documentation
-3. **Regular Progress**: Work consistently rather than in bursts
-4. **Seek Feedback**: Get input from multiple sources
-5. **Quality Over Quantity**: Focus on depth rather than length
-6. **Self-Care**: Maintain physical and mental health
-7. **Celebrate Milestones**: Acknowledge progress and achievements
-
-### **Red Flags to Watch For**
-
-- Missing supervisor meetings regularly
-- Falling behind timeline significantly
-- Difficulty understanding research requirements
-- Lack of progress for extended periods
-- Quality concerns from supervisor
-- Personal or health issues affecting work
 
 ### **When to Seek Help**
 
