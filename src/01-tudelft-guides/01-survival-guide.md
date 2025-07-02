@@ -1,6 +1,4 @@
-# TU Delft - Survival Guide
-
-# Migrating to TU Delft as a Student
+# Unofficial Survival Guide for TU Delft Students
 
 Migrating to a new country for studies can be a daunting experience, but it can also be one of the most enriching experiences of your life. If you are considering studying at TU Delft, one of the top technical universities in the world, this blog post will guide you through the process of migrating to the Netherlands as a student.
 
