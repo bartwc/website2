@@ -149,7 +149,7 @@ ABN AMRO will send 4 separate letters by post within 5 working days^:
 
 ^There are instances where people have waited for 14 days or more.
 
-*An alternative can be the ING Student Account that can be created via the [ING iOS App](https://www.ing.nl/particulier/student/open-a-student-account). ING claims to have Apple Pay for Student Accounts which may interest you.****
+*Both ABN AMRO and ING student accounts support Apple Pay. The alternative is the ING Student Account can be created via the [ING iOS App](https://www.ing.nl/particulier/student/open-a-student-account).*
 
 ### Transport - OV-Chipkaart
 
