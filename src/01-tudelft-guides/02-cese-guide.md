@@ -6,6 +6,8 @@ Entering the Faculty of Electrical Engineering, Mathematics, and Computer Scienc
 
 ### **Curriculum in EEMCS - CESE**
 
+NEW UPDATE: The new study guide starting from the 2025-2026 academic year provides information about the curriculum at https://studyguide.tudelft.nl/
+
 One of the most informative website is the [course browser search](https://www.studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=30874). By following the search parameters, you will know the compulsory courses that you have to take in EEMCS - Computer and Embedded Systems Engineering Masters. Please note that if your Bachelors Specialization was in Electrical Engineering, you are required to take Software Fundamentals and vice versa, Computer Science undergraduates would need to take Hardware Fundamentals in Semester 1.
 
 ![TUDelft-CESEGuide-StudentGuide.png](TUDelft-CESEGuide-StudentGuide.png)
@@ -34,6 +36,9 @@ TU Delft students need to fill up the [Individual Exam Programme (IEP)](https://
 1. Masters Coordinator
 2. Thesis Advisor
 3. Board of Examiners
+
+## Essential - Laptops
+TU Delft provides laptop advice and sale of laptops for your study at https://www.tudelft.nl/en/student/my-study-me/study-tools/laptop-project/models-2025-2026
 
 ## Essential - Operating System
 
