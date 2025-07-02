@@ -1,6 +1,4 @@
-# TU Delft - Thesis Guidelines from a Student's Perspective
-
-# Your Unofficial Guide to Thesis Writing at TU Delft
+# Your Unofficial Guide to Thesis Writing
 
 Writing a thesis at TU Delft is the culmination of your academic journey and represents your ability to conduct independent research. This guide will help you navigate the thesis process from initial planning to final submission, ensuring you meet all requirements and produce high-quality work.
 
