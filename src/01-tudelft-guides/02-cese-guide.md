@@ -115,6 +115,38 @@ Captions can be added to OBS using Maestra: [https://maestra.ai/tools/web-captio
 
 [Tutorial – Typst Documentation](https://typst.app/docs/tutorial/)
 
+### Termination of Enrolment
+
+As a student at TU Delft, you are responsible for submitting a request for termination of enrolment on [Studielink](https://www.studielink.nl/) if you no longer wish to be enrolled and will not follow any courses or take examinations.
+
+**Important Deadline**: Submit your request before 23.59 CET/CEST on the last day of the month. Termination takes effect on the first day of the following month. For example, if you request termination on 26 March, your enrolment will be terminated by 1 April.
+
+**When to terminate**: You should terminate when you want to stop your study (personal reasons, programme not the right fit) or when you're finished (completed all courses and thesis defense, awaiting diploma, or confident you've passed your last exam). **⚠️ Important**: Your enrolment will NOT automatically be terminated after graduation.
+
+**⚠️ Critical Note**: If you submit a request after 31 May, your enrolment can only be terminated from 1 July or 1 August, and you will not receive a refund for July and August.
+
+**Campus Card and Net-ID**: Your Campus Card and student Net-ID will be deactivated after 3 months. After this period, they won't work even if you re-enrol.
+
+For more information, visit the [official TU Delft termination page](https://www.tudelft.nl/en/student/my-study-me/enrolment-and-tuition-fee/termination-of-enrolment).
+
+### TU Delft for Life Portal
+
+[TU Delft for Life](https://www.tudelftforlife.nl/) is the global online community connecting TU Delft alumni from around the world. This portal serves as your lifelong connection to the university and fellow alumni.
+
+**Key Features:**
+- **Reconnect with former classmates** and study friends
+- **Expand your professional network** with alumni worldwide
+- **Stay informed** with the latest news from your alma mater
+- **Access alumni events** and career support opportunities
+- **Lifelong learning** through specially selected courses and MOOCs
+- **Update your contact details** to receive invites for local alumni events and the alumni magazine
+
+**Being a Delft engineer is not something for the short run; it is something you are for life, something to be proud of!** TU Delft alumni live and work all over the world, and this platform helps you maintain those valuable connections.
+
+To get started, create an account or log in at [tudelftforlife.nl](https://www.tudelftforlife.nl/) to access all features of this community. Whether you've just graduated or have been working for years, this portal keeps you connected to the TU Delft community and provides ongoing professional and personal development opportunities.
+
+For support, contact the Alumni Relations team at `alumnirelations@tudelft.nl` or visit [alumni.tudelft.nl](https://alumni.tudelft.nl/).
+
 ### Career Guide
 
 You can keep a look-out for career related events i.e. EEMCS Recruitment Day, Delft Career Days. Not all are free. So, please check for the programme and register if interested.
@@ -123,4 +155,4 @@ Another portal you can use is [TU Delft Your Career Portal](https://tudelft.jobt
 
 ### Conclusion
 
-Quarter 1 is hectic and packed. The learning curve may be extremely daunting, but it may be less so with careful preparation and adjustment. By following the steps outlined in this blog post and taking advantage of the resources available to you, you can make a smooth transition to student life in the CESE Programme. Good luck on your journey!
+Life in TU Delft can be hectic and packed. The learning curve may be extremely daunting, but it may be less so with careful preparation and adjustment. By following the steps outlined in this blog post and taking advantage of the resources available to you, you can make a smooth transition to student life and do well in the CESE Programme. Good luck on your journey!
