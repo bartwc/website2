@@ -329,6 +329,7 @@ auto processData(const std::string_view& data) -> std::unique_ptr<Result> {
      * \x The horizontal dimension in metres
      * \y The vertical dimension in metres
      **/
+```
 
 ## Security Best Practices
 
