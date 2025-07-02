@@ -60,12 +60,14 @@ Try not to skip it as seniors will guide you on Campus Discovery, Brightspace Pu
 
 ### Apps
 
+New App to Meet New Friends from All Over the World- https://www.goinconnect.com/
+
 | [My TU Delft](https://apps.apple.com/nl/app/my-tu-delft-student/id1395269408) | [Brightspace Pulse](https://apps.apple.com/nl/app/brightspace-pulse/id1001688546) | [Uni-Life](https://apps.apple.com/nl/app/uni-life/id1320860920) (Not as useful as Clubs) | [OVPay](https://apps.apple.com/nl/app/ovpay/id1542164084) (Not as useful as Kiosk) | [NS](https://apps.apple.com/nl/app/ns/id370362301) (Primary) | [9292](https://apps.apple.com/nl/app/9292-reisplanner-ov-e-ticket/id556557690) (Secondary) | [Google Translate](https://apps.apple.com/nl/app/google-translate/id414706506) |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 
 
-### Weather in Delft
-
+### Weather in Delft 2023
+Compare 2023 Weather with latest weather on https://www.buienradar.nl/ website to see effects of Global Warming.
 | Month                                                                                                   | Temperature | Rainy Days | Dry Days | Snowy Days | Rainfall (mm) | Weather |
 |---------------------------------------------------------------------------------------------------------|-------------|------------|----------|------------|---------------|---------|
 | [January](https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&month=January)     | 6° / 4°     | 10         | 18       | 4          | 107           | Awful   |
@@ -120,7 +122,7 @@ You can book at appointment with Klant Contact Centrum (Rijswijk) via [kcc@rijsw
 
 ### Collection of Residence Permit
 
-**1 Golden Word of Advice** - Reach there as early as possible and ignore the appointment time as all universities in Netherlands were queuing in the open at Utrecht to collect their Residence Permit from IND. The queue was insane. You have been warned.
+**1 Golden Word of Advice** - Reach there as early as possible and ignore the mass appointment time as all universities in Netherlands were queuing in the open at Utrecht in 2023 to collect their Residence Permit from IND. The queue was insane. You have been warned.
 
 ### Bank Account
 
@@ -145,13 +147,9 @@ ABN AMRO will send 4 separate letters by post within 5 working days^:
 3 - The activation code for your debit card
 4 - E.dentifier: a device that allows you to log into Internet Banking and confirm orders without smartphone.
 
-* Student Account for ABN AMRO does not allow the usage of Apple Pay.
-
 ^There are instances where people have waited for 14 days or more.
 
 *An alternative can be the ING Student Account that can be created via the [ING iOS App](https://www.ing.nl/particulier/student/open-a-student-account). ING claims to have Apple Pay for Student Accounts which may interest you.****
-
-**** ABN AMRO has now allowed student card to be used on Apple Pay as well.*
 
 ### Transport - OV-Chipkaart
 
@@ -222,8 +220,8 @@ Rules for Cyclists
 
 ### Things Worth Buying
 
-| Things Worth Buying in ALDI                                               | Things Worth Buying in Albert Heijn                                   |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Things Worth Buying in ALDI (2023)                                        | Things Worth Buying in Albert Heijn (2023)                            |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------|
 | Frituurolie (Frying Oil 2L) - 5.32 ^                                      | ToiletPapier (Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95 |
 | Wokgarnalen (Wok Shrimp 200g vs AH 150g) - 4.49 ^                         | Karbonades (Pork Chops - 400g) - 3.15                                 |
 | Babi Panggang (Roast Pork Fried Rice) - 3.79 ^                            | Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09                   |
@@ -312,6 +310,8 @@ Casio FX-82MS is suitable for exams.***
 
 “[is a place on campus where you can develop in areas that are not always part of the academic training, but which are invaluable. X focuses on the *needs of young people* and has a variable range in the field of sports, games, arts, crafts, reflection and lifestyle. The offer ranges from courses, ticket hours, events and projects to, for example, free use of a student kitchen and living room and the initiation of activities and/or programming.](https://www.tudelft.nl/x/over-x/ons-verhaal)”
 
+Compare prices in 2025 with the prices of 2023 shown below to see effects of inflation.
+
 [X-Subscription](https://x.tudelft.nl/shop/items?type=subscription) - 1 Week (9€) | 1 Month (29€) | 3 Months (72€) | 6 Months (111€) | 1 Year (161€)
 
 Fitness Facilities - 1 Week (8€) | 1 Month (27€) | 3 Months (64€) | 6 Months (100€) | 1 Year (144€)
@@ -324,6 +324,8 @@ Here is a [website link](https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z
 
 ![TUDelft-SurvivalGuide-Calendar20232024.png](TUDelft-SurvivalGuide-Calendar20232024.png)
 
+For 2025-2026, Here is the [Website Link](https://filelist.tudelft.nl/Studentenportal/Centraal/Mijn%20studie%20_%20ik/Onderwijs/Academische%20jaarindeling/Academic%20Calendar%202025-2026.pdf)
+
 ### Entire Map of TU Delft
 
 [https://map.tudelftcampus.nl/](https://map.tudelftcampus.nl/)
@@ -334,7 +336,7 @@ Here is a [website link](https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z
 
 Recommendation: Private Food Outlets Between Civil Engineering and Echo offer good food at good prices.
 
-1. [The Hangout - Vietnamese & More](https://maps.app.goo.gl/AajxvvKuwSToPMZo7)
+1. [The Hangout - Vietnamese & More](https://maps.app.goo.gl/AajxvvKuwSToPMZo7) - Currently Serving 10.95€ Lunch Meals
 2. [Food Station](https://maps.app.goo.gl/gq9fH5jdiHoXuaV69)
 
 | **S/N** | **FACULTY / BUILDING**                                       | **AVAILABLE FOOD OUTLETS**  |
