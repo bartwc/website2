@@ -165,7 +165,7 @@ Refer to HTM Tram and Bus Map Below.
 
 ### Phone Plan
 
-The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
+The top 3 telecommunications providers are KPN, Vodafone and T-Mobile. Lebara is a mobile virtual network operator (MVNO) that signed a business agreement with KPN. Lebara offers an affordable SIM-Only Plan (1 Month / 2 Years). Lebara offers 4G Extra Fast Speeds at 0.50€ and Data Cap Service at 0.50€ in 2023. You can collect free 200MB Lebara Sim Cards during University Introduction Week or Residence Permit Collection Day
 
 
 ### Cycling
@@ -198,7 +198,7 @@ Things to Note Prior to Purchase
 
 6 - A **single chain** bicycle with no option to change gears is good for maintenance and is less prone to breaking down. Parking bicycle under shelter also minimises contact with rainwater that causes rust to form.
 
-7 - A Second-Hand City Bicycle with features mentioned above cost 150€ as observed during Introduction Week organised by University. The contact is here - Laan van Waalhaven 213a 2497 GL Den Haag Ypenburg in Kringloop Rataplan | reparatie@op-nieuw.nl | www.op-nieuw.nl
+7 - A Second-Hand City Bicycle with features mentioned above cost 150€ as observed during Introduction Week 2023 organised by University. The contact is here - Laan van Waalhaven 213a 2497 GL Den Haag Ypenburg in Kringloop Rataplan | reparatie@op-nieuw.nl | www.op-nieuw.nl
 
 8 - Cost of Accessories - [Bicycle Crate from Aldi](https://www.aldi.nl/aanbiedingen/WK34_Vanaf_Woensdag_23-08/fietskrat-2011297-1-0.article.html) (8.99€) | [Bicycle Bell from SoLow](https://solow.nl/) (2€) | [Bicycle Pump from Action](https://www.action.com/nl-nl/p/2561081/fietspomp/) (6.98€).
 
