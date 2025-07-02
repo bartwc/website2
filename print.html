@@ -25,28 +25,40 @@
         <link rel="stylesheet" href="fonts/fonts.css">
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" href="highlight.css">
-        <link rel="stylesheet" href="tomorrow-night.css">
-        <link rel="stylesheet" href="ayu-highlight.css">
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
 
 
-        <!-- Provide site root to javascript -->
+        <!-- Provide site root and default themes to javascript -->
         <script>
-            var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc.js"></script>
     </head>
     <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
     <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
-                var theme = localStorage.getItem('mdbook-theme');
-                var sidebar = localStorage.getItem('mdbook-sidebar');
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
 
                 if (theme.startsWith('"') && theme.endsWith('"')) {
                     localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
@@ -60,7 +72,8 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
-            var theme;
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
             const html = document.documentElement;
@@ -73,8 +86,8 @@
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
-            var sidebar = null;
-            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
@@ -110,13 +123,14 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
-                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                        <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
                         </button>
                     </div>
@@ -266,10 +280,12 @@
 </tbody></table>
 </div>
 <h3 id="apps"><a class="header" href="#apps">Apps</a></h3>
+<p>New App to Meet New Friends from All Over the World- https://www.goinconnect.com/</p>
 <div class="table-wrapper"><table><thead><tr><th><a href="https://apps.apple.com/nl/app/my-tu-delft-student/id1395269408">My TU Delft</a></th><th><a href="https://apps.apple.com/nl/app/brightspace-pulse/id1001688546">Brightspace Pulse</a></th><th><a href="https://apps.apple.com/nl/app/uni-life/id1320860920">Uni-Life</a> (Not as useful as Clubs)</th><th><a href="https://apps.apple.com/nl/app/ovpay/id1542164084">OVPay</a> (Not as useful as Kiosk)</th><th><a href="https://apps.apple.com/nl/app/ns/id370362301">NS</a> (Primary)</th><th><a href="https://apps.apple.com/nl/app/9292-reisplanner-ov-e-ticket/id556557690">9292</a> (Secondary)</th><th><a href="https://apps.apple.com/nl/app/google-translate/id414706506">Google Translate</a></th></tr></thead><tbody>
 </tbody></table>
 </div>
-<h3 id="weather-in-delft"><a class="header" href="#weather-in-delft">Weather in Delft</a></h3>
+<h3 id="weather-in-delft-2023"><a class="header" href="#weather-in-delft-2023">Weather in Delft 2023</a></h3>
+<p>Compare 2023 Weather with latest weather on https://www.buienradar.nl/ website to see effects of Global Warming.</p>
 <div class="table-wrapper"><table><thead><tr><th>Month</th><th>Temperature</th><th>Rainy Days</th><th>Dry Days</th><th>Snowy Days</th><th>Rainfall (mm)</th><th>Weather</th></tr></thead><tbody>
 <tr><td><a href="https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&amp;month=January">January</a></td><td>6° / 4°</td><td>10</td><td>18</td><td>4</td><td>107</td><td>Awful</td></tr>
 <tr><td><a href="https://www.weather25.com/europe/netherlands/zuid-holland/delft?page=month&amp;month=February">February</a></td><td>6° / 3°</td><td>8</td><td>16</td><td>4</td><td>78</td><td>Awful</td></tr>
@@ -309,7 +325,7 @@
 <p>5 - Permission of Landlord Form</p>
 <p>You can book at appointment with Klant Contact Centrum (Rijswijk) via <a href="mailto:kcc@rijswijk.nl">kcc@rijswijk.nl</a></p>
 <h3 id="collection-of-residence-permit"><a class="header" href="#collection-of-residence-permit">Collection of Residence Permit</a></h3>
-<p><strong>1 Golden Word of Advice</strong> - Reach there as early as possible and ignore the appointment time as all universities in Netherlands were queuing in the open at Utrecht to collect their Residence Permit from IND. The queue was insane. You have been warned.</p>
+<p><strong>1 Golden Word of Advice</strong> - Reach there as early as possible and ignore the mass appointment time as all universities in Netherlands were queuing in the open at Utrecht in 2023 to collect their Residence Permit from IND. The queue was insane. You have been warned.</p>
 <h3 id="bank-account"><a class="header" href="#bank-account">Bank Account</a></h3>
 <p>Open the <a href="https://www.abnamro.nl/nl/prive/internet-en-mobiel/abn-amro-app/index.html">ABN AMRO iOS App</a> and tap on "Create an Account."</p>
 <p>Take a picture of your Passport, followed by your Face.</p>
@@ -323,12 +339,8 @@
 2 - The PIN for your debit card
 3 - The activation code for your debit card
 4 - E.dentifier: a device that allows you to log into Internet Banking and confirm orders without smartphone.</p>
-<ul>
-<li>Student Account for ABN AMRO does not allow the usage of Apple Pay.</li>
-</ul>
 <p>^There are instances where people have waited for 14 days or more.</p>
 <p><em>An alternative can be the ING Student Account that can be created via the <a href="https://www.ing.nl/particulier/student/open-a-student-account">ING iOS App</a>. ING claims to have Apple Pay for Student Accounts which may interest you.</em>***</p>
-<p>**** ABN AMRO has now allowed student card to be used on Apple Pay as well.*</p>
 <h3 id="transport---ov-chipkaart"><a class="header" href="#transport---ov-chipkaart">Transport - OV-Chipkaart</a></h3>
 <p>A personal <a href="https://www.ov-chipkaart.nl/en/apply-for-personal-ov-chipcard">OV-Chipkaart</a> application costs € 7.50 and is valid for five years.</p>
 <p>To save 20% off on all HTM Tram and Train Rides cost on trams and trains provided by HTM, you can buy their <a href="https://www.htm.nl/en/webshop/abonnementen/maandkorting">HTM Monthly Pass</a> at 3€. Look at the map below to see all the Tram and Train Lines from Delft.</p>
@@ -367,7 +379,7 @@
 </tbody></table>
 </div>
 <h3 id="things-worth-buying"><a class="header" href="#things-worth-buying">Things Worth Buying</a></h3>
-<div class="table-wrapper"><table><thead><tr><th>Things Worth Buying in ALDI</th><th>Things Worth Buying in Albert Heijn</th></tr></thead><tbody>
+<div class="table-wrapper"><table><thead><tr><th>Things Worth Buying in ALDI (2023)</th><th>Things Worth Buying in Albert Heijn (2023)</th></tr></thead><tbody>
 <tr><td>Frituurolie (Frying Oil 2L) - 5.32 ^</td><td>ToiletPapier (Toilet Paper 9 Roll 3 Roll 200 Pieces Per Roll ) - 3.95</td></tr>
 <tr><td>Wokgarnalen (Wok Shrimp 200g vs AH 150g) - 4.49 ^</td><td>Karbonades (Pork Chops - 400g) - 3.15</td></tr>
 <tr><td>Babi Panggang (Roast Pork Fried Rice) - 3.79 ^</td><td>Koh TH Red Curry (Thai Red Curry Sauce 225g) - 2.09</td></tr>
@@ -436,19 +448,21 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 <p>*** This calculator is inferior to Casio FX-991EX as it lacks one function - solving quadratic equations.</p>
 <h3 id="x"><a class="header" href="#x"><a href="https://www.tudelft.nl/x/over-x/ons-verhaal">X</a></a></h3>
 <p>“<a href="https://www.tudelft.nl/x/over-x/ons-verhaal">is a place on campus where you can develop in areas that are not always part of the academic training, but which are invaluable. X focuses on the <em>needs of young people</em> and has a variable range in the field of sports, games, arts, crafts, reflection and lifestyle. The offer ranges from courses, ticket hours, events and projects to, for example, free use of a student kitchen and living room and the initiation of activities and/or programming.</a>”</p>
+<p>Compare prices in 2025 with the prices of 2023 shown below to see effects of inflation.</p>
 <p><a href="https://x.tudelft.nl/shop/items?type=subscription">X-Subscription</a> - 1 Week (9€) | 1 Month (29€) | 3 Months (72€) | 6 Months (111€) | 1 Year (161€)</p>
 <p>Fitness Facilities - 1 Week (8€) | 1 Month (27€) | 3 Months (64€) | 6 Months (100€) | 1 Year (144€)</p>
 <p>Fitness Facilities Subscription requires X-Subscription</p>
 <p>Here is a <a href="https://www.tudelft.nl/en/x/whats-on-offer/overview-a-z?tx_lookup_results%5Bpage-164988%5D%5BcurrentPage%5D=4&amp;cHash=26006a3e6d873ad5b61b7e331550ef3e">website link</a> of all Sports and Cultural Associations in X.</p>
 <h3 id="academic-calendar-2023-2024"><a class="header" href="#academic-calendar-2023-2024">Academic Calendar 2023-2024</a></h3>
 <p><img src="foo/TUDelft-SurvivalGuide-Calendar20232024.png" alt="TUDelft-SurvivalGuide-Calendar20232024.png" /></p>
+<p>For 2025-2026, Here is the <a href="https://filelist.tudelft.nl/Studentenportal/Centraal/Mijn%20studie%20_%20ik/Onderwijs/Academische%20jaarindeling/Academic%20Calendar%202025-2026.pdf">Website Link</a></p>
 <h3 id="entire-map-of-tu-delft"><a class="header" href="#entire-map-of-tu-delft">Entire Map of TU Delft</a></h3>
 <p><a href="https://map.tudelftcampus.nl/">https://map.tudelftcampus.nl/</a></p>
 <h3 id="food"><a class="header" href="#food">Food</a></h3>
 <p><img src="foo/TUDelft-SurvivalGuide-Food.png" alt="TUDelft-SurvivalGuide-Food.png" /></p>
 <p>Recommendation: Private Food Outlets Between Civil Engineering and Echo offer good food at good prices.</p>
 <ol>
-<li><a href="https://maps.app.goo.gl/AajxvvKuwSToPMZo7">The Hangout - Vietnamese &amp; More</a></li>
+<li><a href="https://maps.app.goo.gl/AajxvvKuwSToPMZo7">The Hangout - Vietnamese &amp; More</a> - Currently Serving 10.95€ Lunch Meals</li>
 <li><a href="https://maps.app.goo.gl/gq9fH5jdiHoXuaV69">Food Station</a></li>
 </ol>
 <div class="table-wrapper"><table><thead><tr><th><strong>S/N</strong></th><th><strong>FACULTY / BUILDING</strong></th><th><strong>AVAILABLE FOOD OUTLETS</strong></th></tr></thead><tbody>
