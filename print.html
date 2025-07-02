@@ -572,7 +572,7 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 <h2 id="code-and-submission"><a class="header" href="#code-and-submission">Code and submission</a></h2>
 <h3 id="do"><a class="header" href="#do">Do:</a></h3>
 <ul>
-<li>Conform to the coding style found below. Use clang-format (version 12 or later) to automatically format C++ files.</li>
+<li>Conform to the coding style found below. Use clang-format (version 16 or later) to automatically format C++ files.</li>
 <li>Choose expressive variable, function and class names. Make it easy to understand the logic flow of the code.</li>
 <li>Split your changes into separate, atomic commits (i.e. A commit per feature or fix, where the build, tests and the system are all functioning).</li>
 <li>Capitalise the subject line with a maximum of 72 characters.</li>
@@ -587,7 +587,7 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 <li>Use imprecise words like "refactor" or "fix" to avoid explaining what's being changed.</li>
 <li>End commit message subject lines with a period.</li>
 <li>Include commented-out code.</li>
-<li>Write in C. (Instead, take advantage of C++'s amenities, and don't limit yourself to the standard C library.) Use C++ 17</li>
+<li>Write in C. (Instead, take advantage of C++'s amenities, and don't limit yourself to the standard C library.) Use C++ 20 or later</li>
 <li>Move code around without quantifiable benefit.</li>
 </ul>
 <h1 id="c-coding-style"><a class="header" href="#c-coding-style">C++ coding style</a></h1>
@@ -681,7 +681,7 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 </ul>
 <h2 id="null-false-and-0"><a class="header" href="#null-false-and-0">Null, false and 0</a></h2>
 <ul>
-<li>In C++, the null pointer value should be written as 0. In C it should be written as NULL.</li>
+<li>In C++, the null pointer value should be written as <code>nullptr</code>. In C it should be written as <code>NULL</code>.</li>
 <li>True and false values of type bool (common in C and C++), or just generic true/false values, should be written as true and false.</li>
 <li>Tests for null pointers, false values and 0 values should all be done diretly, not through an inqueality or equality comparison.</li>
 </ul>
@@ -789,6 +789,27 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
 <pre><code>    uRLVariable
     myUrlAccessor:
 </code></pre>
+<h2 id="modern-c-features-c2023"><a class="header" href="#modern-c-features-c2023">Modern C++ Features (C++20/23)</a></h2>
+<h3 id="preferred-features"><a class="header" href="#preferred-features">Preferred Features</a></h3>
+<ul>
+<li><strong>Use <code>auto</code> for type deduction</strong> when the type is obvious from context</li>
+<li><strong>Prefer <code>std::unique_ptr</code> and <code>std::shared_ptr</code></strong> over raw pointers</li>
+<li><strong>Use range-based for loops</strong> instead of traditional for loops when possible</li>
+<li><strong>Use <code>nullptr</code></strong> instead of <code>0</code> for null pointers</li>
+<li><strong>Use <code>constexpr</code></strong> for compile-time computations</li>
+<li><strong>Use <code>std::string_view</code></strong> for read-only string parameters</li>
+<li><strong>Use structured bindings</strong> for cleaner tuple/struct unpacking</li>
+</ul>
+<h3 id="example"><a class="header" href="#example">Example:</a></h3>
+<pre><code class="language-cpp">// Modern C++ approach
+auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Result&gt; {
+    auto [success, value] = parseInput(data);
+    if (!success) {
+        return nullptr;
+    }
+    return std::make_unique&lt;Result&gt;(value);
+}
+</code></pre>
 <h2 id="doxygen-comments"><a class="header" href="#doxygen-comments">Doxygen comments</a></h2>
 <ul>
 <li>Each class, struct, enum and function should be documented with a Doxygen comment.</li>
@@ -809,7 +830,16 @@ Mtd 2 - TU Delft PC → Open Print File → Go to Print → Select Printer “Fo
      * \x The horizontal dimension in metres
      * \y The vertical dimension in metres
      **/
-</code></pre>
+
+## Security Best Practices
+
+* **Validate all inputs** - Never trust external data
+* **Use secure string handling** - Avoid buffer overflows with `std::string` and `std::string_view`
+* **Sanitize user input** - Remove or escape potentially dangerous characters
+* **Use RAII** - Resource Acquisition Is Initialization for automatic cleanup
+* **Avoid raw pointers** - Use smart pointers to prevent memory leaks
+* **Check return values** - Always verify function return codes
+* **Use const correctness** - Mark parameters and methods as `const` when possible</code></pre>
 
                     </main>
 
