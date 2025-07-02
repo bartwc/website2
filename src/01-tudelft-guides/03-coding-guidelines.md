@@ -12,7 +12,7 @@
 
 ### Do:
 
-* Conform to the coding style found below. Use clang-format (version 12 or later) to automatically format C++ files.
+* Conform to the coding style found below. Use clang-format (version 16 or later) to automatically format C++ files.
 * Choose expressive variable, function and class names. Make it easy to understand the logic flow of the code.
 * Split your changes into separate, atomic commits (i.e. A commit per feature or fix, where the build, tests and the system are all functioning).
 * Capitalise the subject line with a maximum of 72 characters.
@@ -27,7 +27,7 @@
 * Use imprecise words like "refactor" or "fix" to avoid explaining what's being changed.
 * End commit message subject lines with a period.
 * Include commented-out code.
-* Write in C. (Instead, take advantage of C++'s amenities, and don't limit yourself to the standard C library.) Use C++ 17
+* Write in C. (Instead, take advantage of C++'s amenities, and don't limit yourself to the standard C library.) Use C++ 20 or later
 * Move code around without quantifiable benefit.
 
 # C++ coding style
@@ -144,7 +144,7 @@ Right:
 
 ## Null, false and 0
 
-* In C++, the null pointer value should be written as 0. In C it should be written as NULL.
+* In C++, the null pointer value should be written as `nullptr`. In C it should be written as `NULL`.
 * True and false values of type bool (common in C and C++), or just generic true/false values, should be written as true and false.
 * Tests for null pointers, false values and 0 values should all be done diretly, not through an inqueality or equality comparison.
 
@@ -279,6 +279,31 @@ Right:
     myUrlAccessor:
 ```
 
+## Modern C++ Features (C++20/23)
+
+### Preferred Features
+
+* **Use `auto` for type deduction** when the type is obvious from context
+* **Prefer `std::unique_ptr` and `std::shared_ptr`** over raw pointers
+* **Use range-based for loops** instead of traditional for loops when possible
+* **Use `nullptr`** instead of `0` for null pointers
+* **Use `constexpr`** for compile-time computations
+* **Use `std::string_view`** for read-only string parameters
+* **Use structured bindings** for cleaner tuple/struct unpacking
+
+### Example:
+
+```cpp
+// Modern C++ approach
+auto processData(const std::string_view& data) -> std::unique_ptr<Result> {
+    auto [success, value] = parseInput(data);
+    if (!success) {
+        return nullptr;
+    }
+    return std::make_unique<Result>(value);
+}
+```
+
 ## Doxygen comments
 
 * Each class, struct, enum and function should be documented with a Doxygen comment.
@@ -304,4 +329,13 @@ Right:
      * \x The horizontal dimension in metres
      * \y The vertical dimension in metres
      **/
-```
+
+## Security Best Practices
+
+* **Validate all inputs** - Never trust external data
+* **Use secure string handling** - Avoid buffer overflows with `std::string` and `std::string_view`
+* **Sanitize user input** - Remove or escape potentially dangerous characters
+* **Use RAII** - Resource Acquisition Is Initialization for automatic cleanup
+* **Avoid raw pointers** - Use smart pointers to prevent memory leaks
+* **Check return values** - Always verify function return codes
+* **Use const correctness** - Mark parameters and methods as `const` when possible
