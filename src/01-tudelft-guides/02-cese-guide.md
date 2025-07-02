@@ -1,10 +1,8 @@
-# TU Delft - EEMCS - CESE Guide
-
-# Your Info Guide to EEMCS in TU Delft
+# Your Unofficial Guide to EEMCS in TU Delft
 
 Entering the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS) at TU Delft can be thrilling and demanding. To excel in this rigorous environment, follow these key tips:
 
-### **Curriculum in EEMCS - CESE**
+## **Curriculum in EEMCS - CESE**
 
 NEW UPDATE: The new study guide starting from the 2025-2026 academic year provides information about the curriculum at https://studyguide.tudelft.nl/
 
@@ -14,7 +12,7 @@ One of the most informative website is the [course browser search](https://www.s
 
 ### [Alternate View of Programme Courses](https://www.tudelft.nl/en/education/programmes/masters/msc-computer-embedded-systems-engineering/programme-in-detail)
 
-## First Year (60 EC)
+### First Year (60 EC)
 
 | Q1                                    | Q2                     | Q3                        | Q4                                       |
 |---------------------------------------|------------------------|---------------------------|------------------------------------------|
@@ -22,7 +20,7 @@ One of the most informative website is the [course browser search](https://www.s
 | Systems Engineering 5 EC              | Software Systems 5 EC  | Computer Arithmetic 5 EC  | Processor Design Project 5 EC            |
 | Software / Hardware Fundamentals 5 EC | Specialization 5 EC    | Specialization 5 EC       | Specialization 5 EC                      |
 
-## Second Year (60 EC)
+### Second Year (60 EC)
 
 | Q1                                   | Q2                   | Q3 | Q4 |
 |--------------------------------------|----------------------|----|----|
@@ -37,10 +35,10 @@ TU Delft students need to fill up the [Individual Exam Programme (IEP)](https://
 2. Thesis Advisor
 3. Board of Examiners
 
-## Essential - Laptops
+### Essential - Laptops
 TU Delft provides laptop advice and sale of laptops for your study at https://www.tudelft.nl/en/student/my-study-me/study-tools/laptop-project/models-2025-2026
 
-## Essential - Operating System
+### Essential - Operating System
 
 In the CESE Masters Programme, you will be working on projects that require Linux. [The teaching team strongly recommend using it.](https://cese.pages.ewi.tudelft.nl/software-fundamentals/linux.html) Based on experience, it is best to NOT deviate from that recommendation.
 
@@ -48,11 +46,11 @@ A stable version Ubuntu 22.04 has been used for many projects and thus been reco
 
 To install it, follow this [tutorial by Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview). This method uses a 12GB or above thumb-drive which renders it useless as a portable conventional storage media device. Do not delete the Ubuntu 22.04 USB stick as you or your friends will consistently need to reinstall Linux if IRREVERSIBLE mistakes causes failure in your project to run.
 
-## Essential - Software
+### Essential - Software
 
 In the CESE Masters Programme, you will be programming in RUST. For starters, a common IDE used by many is VSCode. Let me share with you a competitive IDE called CLion.
 
-### 1A - CLion Integrated Development Environment (IDE)
+#### 1A - CLion Integrated Development Environment (IDE)
 
 [https://www.jetbrains.com/help/clion/installation-guide.html#toolbox](https://www.jetbrains.com/help/clion/installation-guide.html#toolbox)
 
@@ -68,7 +66,7 @@ Install the Rust Plugin. Access the Plugin Window via the Settings Gear icon on 
 
 ![TUDelft-CESEGuide-Rust.png](TUDelft-CESEGuide-Rust.png)
 
-### 2 - LaTeX
+#### 2 - LaTeX
 
 Most (if not all) projects require a report to be written to consolidate all the work done. Although small assignments only require 1-2 pages in the report, most (if not all) projects usually require 4 - 20 pages in the report. In fact, your final year thesis may even reach 100 or more pages. As such, students use Overleaf, an online LaTeX editor that allows for real-time collaboration and online compiling of LaTeX documents.
 
@@ -80,7 +78,7 @@ To overcome a steep learning curve of a complex tool, start off with [Overleaf T
 
 This [tutorial online made in 2024 by Xiong Ying](https://latex-tutorial.com/tutorials/) is very clean and easy to read.
 
-### 3 - GitLab
+#### 3 - GitLab
 
 All code uploads are done on [GitLab](https://gitlab.ewi.tudelft.nl/users/sign_in).
 
@@ -97,15 +95,17 @@ To understand Git for coding, here are four websites that provide visual explana
 - marklodato.github.io
 - onlywei.github.io
 
-### 4 - Messaging Apps
+#### 4 - Messaging Apps
 
 In CESE, Microsoft Teams (Used in Systems Engineering), Discord (Stopped since 2025), and WhatsApp (Only Amongst Students) are used.
 
-### 5 - OBS
+#### 5 - OBS
 
 When video presentations are required for projects, OBS can be used to record video presentations with screen resolution of 1920 x 1080 px (Depending on Laptop Brand and Model)
 
 Captions can be added to OBS using Maestra: [https://maestra.ai/tools/web-captioner](https://maestra.ai/tools/web-captioner)
+
+## Miscellaneous
 
 ### Free Guides
 
@@ -153,6 +153,6 @@ You can keep a look-out for career related events i.e. EEMCS Recruitment Day, De
 
 Another portal you can use is [TU Delft Your Career Portal](https://tudelft.jobteaser.com/en/job-offers)
 
-### Conclusion
+## Conclusion
 
 Life in TU Delft can be hectic and packed. The learning curve may be extremely daunting, but it may be less so with careful preparation and adjustment. By following the steps outlined in this blog post and taking advantage of the resources available to you, you can make a smooth transition to student life and do well in the CESE Programme. Good luck on your journey!
