@@ -1,4 +1,4 @@
-# Coding guidelines
+# Coding Guidelines
 
 *Reference - [SerenityOS](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md)*
 
