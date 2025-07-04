@@ -917,7 +917,7 @@ auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Resu
 <p>The following timeline is recommended for a 45 EC MSc thesis at TU Delft EEMCS (e.g., Computer Engineering, Telecom, Embedded Systems, Microelectronics) from Start of Thesis:</p>
 <ul>
 <li><strong>Month 0:</strong> Update your Individual Exam Programme (IEP) and apply for the Thesis Entrance Permit.</li>
-<li><strong>Month 1:</strong> Enroll at your research group (e.g., SPS) using the membership form, define your thesis topic with your advisor, start your literature search, and give a 5-minute starting presentation in the MSc seminar.</li>
+<li><strong>Month 1:</strong> Enroll at SPS using the "SPS Member" form with the secretary, define your thesis topic with your advisor, start your literature search, and give a 5-minute starting presentation in the MSc seminar.</li>
 <li><strong>Month 3:</strong> Submit the thesis committee form to the exam committee (at least 3 months before your planned graduation date).</li>
 <li><strong>Month 4:</strong> Present a 15-minute midterm presentation in the MSc seminar.</li>
 <li><strong>Month 7:</strong> Obtain permission ("green light") to defend your thesis, set your graduation date, and submit the final examination request form (at least 6 weeks before your defense).</li>
@@ -925,11 +925,18 @@ auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Resu
 </ul>
 <p><strong>Tips:</strong></p>
 <ul>
-<li>You are the project leader: take responsibility for progress, reporting, and regular meetings with your advisors.</li>
+<li>You are the project leader: take responsibility for progress, reporting, and regular meetings with your advisors and other experts.</li>
 <li>Attend MSc midterm seminars and defenses to learn from your peers and improve your own presentation skills.</li>
+<li>Use the lab's Latex template for your thesis report.</li>
 <li>Use the official EEMCS graduation policy and timeline to avoid administrative delays.</li>
 </ul>
-<p>For more details and forms, see the <a href="https://sps.ewi.tudelft.nl/Education/mscguidelines.php">SPS MSc thesis guidelines</a> and <a href="https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren">EEMCS Master Formulieren page</a>.</p>
+<p>For more details, forms, and templates, see the <a href="https://sps.ewi.tudelft.nl/Education/mscguidelines.php">SPS MSc thesis guidelines</a> and <a href="https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren">EEMCS Master Formulieren page</a>.</p>
+<h3 id="scope-of-each-presentation"><a class="header" href="#scope-of-each-presentation"><strong>Scope of Each Presentation</strong></a></h3>
+<ul>
+<li><strong>First-pitch presentation</strong> (Strictly 5 minutes, in weeks 2–4): Present your thesis topic and objectives to the CAS group and any external supervisors.</li>
+<li><strong>Mid-term presentation</strong> (Strictly 10 minutes, in weeks 17–18): Show the first results of your work and receive feedback.</li>
+<li><strong>Final presentation and defense</strong> (Strictly 30 minutes, in weeks 30–32): Present your completed thesis work and defend your results.</li>
+</ul>
 <h3 id="finding-a-supervisor"><a class="header" href="#finding-a-supervisor"><strong>Finding a Supervisor</strong></a></h3>
 <ol>
 <li>
@@ -967,6 +974,38 @@ auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Resu
 <li><strong>Data Management Plan</strong> - For handling research data</li>
 <li><strong>Risk Assessment</strong> - For laboratory or field work</li>
 </ul>
+<h2 id="recommended-digital-repository-structure"><a class="header" href="#recommended-digital-repository-structure">Recommended Digital Repository Structure</a></h2>
+<p>To organize your thesis work efficiently, create a OneDrive folder using your TU Delft account, named <code>Firstname Lastname</code>. Share the link with your supervisor with full access. Inside, create the following subfolders:</p>
+<ol>
+<li><strong>01 administrative</strong>: All thesis-related administration forms. Include a timeline of your thesis (see timeline planning section).</li>
+<li><strong>02 literature</strong>: Publications for reference/reading, named in the format (authorYY or authorYY_title).</li>
+<li><strong>03 reports</strong>: Your periodic reports, and supervisor's comments/feedback.</li>
+<li><strong>04 presentations</strong>: All presentations, posters, and outreach documents.</li>
+<li><strong>05 notes</strong>: Meeting notes and records of agreements with your supervisor.</li>
+<li><strong>06 code</strong>: Programming code related to your thesis.</li>
+<li><strong>07 project</strong>: (If necessary) Documents related to a specific project.</li>
+</ol>
+<p>This structure will help you and your supervisor keep all thesis materials organized and accessible throughout your project.</p>
+<h2 id="in-person-meetings-with-supervisor"><a class="header" href="#in-person-meetings-with-supervisor">In-Person Meetings with Supervisor</a></h2>
+<ol>
+<li><strong>Periodic meetings</strong> of 30 minutes will be scheduled with you during your thesis period.</li>
+<li>These meetings are not compulsory; if not necessary, they should be cancelled at least a day in advance.</li>
+<li>Each meeting should not exceed 25 minutes, but will have a 30-minute slot.</li>
+<li><strong>Tentative agenda:</strong>
+<ul>
+<li><strong>First 5 minutes:</strong>
+<ul>
+<li>Discuss thesis problem, goals, timeline, etc.</li>
+<li>Review previous action points: Have they been addressed? What is your current challenge?</li>
+</ul>
+</li>
+<li><strong>Next 15 minutes:</strong> Technical discussion</li>
+<li><strong>Next 5 minutes:</strong> List your action points prior to the next meeting</li>
+<li><strong>Final 5 minutes:</strong> Any Other Business (AOB)</li>
+</ul>
+</li>
+<li>Extended meetings can be set up for in-depth technical discussions as needed.</li>
+</ol>
 <h2 id="thesis-structure-and-requirements"><a class="header" href="#thesis-structure-and-requirements">Thesis Structure and Requirements</a></h2>
 <h3 id="standard-thesis-structure"><a class="header" href="#standard-thesis-structure"><strong>Standard Thesis Structure</strong></a></h3>
 <pre><code>1. Title Page
@@ -1003,6 +1042,7 @@ auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Resu
 <li><strong>Page Numbers</strong>: Bottom center</li>
 <li><strong>Language</strong>: English (unless otherwise specified)</li>
 <li><strong>File Format</strong>: PDF for submission</li>
+<li><strong>Template</strong>: Use your lab's Latex template for your thesis report.</li>
 </ul>
 <h2 id="research-methodology"><a class="header" href="#research-methodology">Research Methodology</a></h2>
 <h3 id="research-design"><a class="header" href="#research-design"><strong>Research Design</strong></a></h3>
