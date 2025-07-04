@@ -56,18 +56,25 @@ For more information and official instructions, see the [Master Formulieren page
 The following timeline is recommended for a 45 EC MSc thesis at TU Delft EEMCS (e.g., Computer Engineering, Telecom, Embedded Systems, Microelectronics) from Start of Thesis:
 
 - **Month 0:** Update your Individual Exam Programme (IEP) and apply for the Thesis Entrance Permit.
-- **Month 1:** Enroll at your research group (e.g., SPS) using the membership form, define your thesis topic with your advisor, start your literature search, and give a 5-minute starting presentation in the MSc seminar.
+- **Month 1:** Enroll at SPS using the "SPS Member" form with the secretary, define your thesis topic with your advisor, start your literature search, and give a 5-minute starting presentation in the MSc seminar.
 - **Month 3:** Submit the thesis committee form to the exam committee (at least 3 months before your planned graduation date).
 - **Month 4:** Present a 15-minute midterm presentation in the MSc seminar.
 - **Month 7:** Obtain permission ("green light") to defend your thesis, set your graduation date, and submit the final examination request form (at least 6 weeks before your defense).
 - **Month 8-9:** Defend your thesis and receive your MSc diploma!
 
 **Tips:**
-- You are the project leader: take responsibility for progress, reporting, and regular meetings with your advisors.
+- You are the project leader: take responsibility for progress, reporting, and regular meetings with your advisors and other experts.
 - Attend MSc midterm seminars and defenses to learn from your peers and improve your own presentation skills.
+- Use the lab's Latex template for your thesis report.
 - Use the official EEMCS graduation policy and timeline to avoid administrative delays.
 
-For more details and forms, see the [SPS MSc thesis guidelines](https://sps.ewi.tudelft.nl/Education/mscguidelines.php) and [EEMCS Master Formulieren page](https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren).
+For more details, forms, and templates, see the [SPS MSc thesis guidelines](https://sps.ewi.tudelft.nl/Education/mscguidelines.php) and [EEMCS Master Formulieren page](https://www.tudelft.nl/studenten/ewi-studentenportal/onderwijs/formulieren/master-formulieren).
+
+### **Scope of Each Presentation**
+
+- **First-pitch presentation** (Strictly 5 minutes, in weeks 2–4): Present your thesis topic and objectives to the CAS group and any external supervisors.
+- **Mid-term presentation** (Strictly 10 minutes, in weeks 17–18): Show the first results of your work and receive feedback.
+- **Final presentation and defense** (Strictly 30 minutes, in weeks 30–32): Present your completed thesis work and defend your results.
 
 ### **Finding a Supervisor**
 
@@ -95,6 +102,34 @@ For more details and forms, see the [SPS MSc thesis guidelines](https://sps.ewi.
 - **Ethics Approval** - If required for your research
 - **Data Management Plan** - For handling research data
 - **Risk Assessment** - For laboratory or field work
+
+## Recommended Digital Repository Structure
+
+To organize your thesis work efficiently, create a OneDrive folder using your TU Delft account, named `Firstname Lastname`. Share the link with your supervisor with full access. Inside, create the following subfolders:
+
+1. **01 administrative**: All thesis-related administration forms. Include a timeline of your thesis (see timeline planning section).
+2. **02 literature**: Publications for reference/reading, named in the format (authorYY or authorYY_title).
+3. **03 reports**: Your periodic reports, and supervisor's comments/feedback.
+4. **04 presentations**: All presentations, posters, and outreach documents.
+5. **05 notes**: Meeting notes and records of agreements with your supervisor.
+6. **06 code**: Programming code related to your thesis.
+7. **07 project**: (If necessary) Documents related to a specific project.
+
+This structure will help you and your supervisor keep all thesis materials organized and accessible throughout your project.
+
+## In-Person Meetings with Supervisor
+
+1. **Periodic meetings** of 30 minutes will be scheduled with you during your thesis period.
+2. These meetings are not compulsory; if not necessary, they should be cancelled at least a day in advance.
+3. Each meeting should not exceed 25 minutes, but will have a 30-minute slot.
+4. **Tentative agenda:**
+    - **First 5 minutes:**
+        - Discuss thesis problem, goals, timeline, etc.
+        - Review previous action points: Have they been addressed? What is your current challenge?
+    - **Next 15 minutes:** Technical discussion
+    - **Next 5 minutes:** List your action points prior to the next meeting
+    - **Final 5 minutes:** Any Other Business (AOB)
+5. Extended meetings can be set up for in-depth technical discussions as needed.
 
 ## Thesis Structure and Requirements
 
@@ -137,6 +172,7 @@ For more details and forms, see the [SPS MSc thesis guidelines](https://sps.ewi.
 - **Page Numbers**: Bottom center
 - **Language**: English (unless otherwise specified)
 - **File Format**: PDF for submission
+- **Template**: Use your lab's Latex template for your thesis report.
 
 ## Research Methodology
 
