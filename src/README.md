@@ -1,4 +1,4 @@
-# Barry Tee's Personal Website
+# B's Personal Website
 
 Welcome to my personal website! This site serves as a comprehensive resource showcasing my academic journey, professional experience, and contributions to the TU Delft student community.
 
@@ -7,9 +7,9 @@ Welcome to my personal website! This site serves as a comprehensive resource sho
 This website is built using mdBook and contains several key sections:
 
 ### [Resume](Resume.md)
-My professional resume highlighting:
+<!-- My professional resume highlighting:
 - **Education**: Singapore University of Technology and Design (SUTD)
-- **Work Experience**: DSO National Laboratories, ST Engineering Aerospace
+- **Work Experience**: DSO National Laboratories, ST Engineering Aerospace -->
 - **Technical Projects**: UAV development, robotics, electronics design
 - **Skills**: Rust, Python, MATLAB, C/C++, electronics CAD, and more
 
@@ -62,14 +62,14 @@ Complete guide to thesis writing and defense:
 
 ## 📞 Contact Information
 
-- **Email**: weicong1@hotmail.com
-- **LinkedIn**: [Barry Tee](https://www.linkedin.com/in/barryt6/)
+[//]: # (- **Email**: weicong1@hotmail.com)
+[//]: # (- **LinkedIn**: [Barry Tee]&#40;https://www.linkedin.com/in/barryt6/&#41;)
 - **Last Updated**: February 6, 2025
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing -->
 
-The TU Delft guides are maintained by the student community. If you find outdated information or have suggestions for improvements, contributions are welcome!
+Welcome to the demo site for mkBook Quickstart.
 
----
+View source:
 
-*This website combines personal professional information with community-driven educational resources for TU Delft students.*
+[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
