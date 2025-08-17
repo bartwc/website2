@@ -1,6 +1,68 @@
 # Your Unofficial Guide to Thesis Writing
 
-Writing a thesis at TU Delft is the culmination of your academic journey and represents your ability to conduct independent research. This guide will help you navigate the thesis process from initial planning to final submission, ensuring you meet all requirements and produce high-quality work.
+Writing a thesis at TU Delft is the culmination of your academic journey and represents your ability to conduct independent research. This unofficial guide will help you navigate the thesis process from initial planning to final submission, ensuring you meet all requirements and produce high-quality work.
+
+## 📋 Table of Contents
+
+1. [Understanding the Thesis Process](#understanding-the-thesis-process)
+   - [Thesis Overview](#thesis-overview)
+   - [Thesis Types](#thesis-types)
+
+2. [Pre-Thesis Preparation](#pre-thesis-preparation)
+   - [Handle Thesis Admin via MaRe System](#handle-thesis-admin-via-mare-system)
+   - [Timeline Planning](#timeline-planning)
+   - [Scope of Each Presentation](#scope-of-each-presentation)
+   - [Finding a Supervisor](#finding-a-supervisor)
+   - [Required Documentation](#required-documentation)
+
+3. [Recommended Digital Repository Structure](#recommended-digital-repository-structure)
+
+4. [In-Person Meetings with Supervisor](#in-person-meetings-with-supervisor)
+
+5. [Thesis Structure and Requirements](#thesis-structure-and-requirements)
+   - [Standard Thesis Structure](#standard-thesis-structure)
+   - [Page Requirements](#page-requirements)
+   - [Formatting Requirements](#formatting-requirements)
+
+6. [Research Methodology](#research-methodology)
+   - [Research Design](#research-design)
+   - [Data Collection Methods](#data-collection-methods)
+   - [Data Analysis](#data-analysis)
+
+7. [Writing Process](#writing-process)
+   - [Writing Timeline](#writing-timeline)
+   - [Writing Tips](#writing-tips)
+   - [Academic Writing Style](#academic-writing-style)
+
+8. [English Writing Standards](#english-writing-standards)
+   - [General Principles](#general-principles)
+   - [Grammar and Style](#grammar-and-style)
+   - [Punctuation and Formatting](#punctuation-and-formatting)
+
+9. [Supervision and Feedback](#supervision-and-feedback)
+   - [Working with Your Supervisor](#working-with-your-supervisor)
+   - [Email Etiquette](#email-etiquette)
+   - [Peer Review and Support](#peer-review-and-support)
+
+10. [Quality Assurance](#quality-assurance)
+    - [Official TU Delft MSc Grading Rubrics](#official-tu-delft-msc-grading-rubrics)
+
+11. [Submission and Defense](#submission-and-defense)
+    - [Pre-Submission Checklist for Report](#pre-submission-checklist-for-report)
+    - [Pre-Submission Checklist for Code](#pre-submission-checklist-for-code)
+    - [Before Reviewing Documents](#before-reviewing-documents)
+    - [Submission Process](#submission-process)
+    - [Thesis Defense](#thesis-defense)
+
+12. [Resources and Support](#resources-and-support)
+    - [University Resources](#university-resources)
+    - [Software and Tools](#software-and-tools)
+    - [Online Resources](#online-resources)
+
+13. [Success Tips](#success-tips)
+    - [When to Seek Help](#when-to-seek-help)
+
+14. [Conclusion](#conclusion)
 
 ## Understanding the Thesis Process
 
@@ -271,19 +333,176 @@ This structure will help you and your supervisor keep all thesis materials organ
 
 ### **Academic Writing Style**
 
+**Abbreviations:**
+- Introduce abbreviations on first use
+- Preferably in abstract, introduction, and conclusion
+- Use consistently: "a SOC" or "an SOC" (but be consistent)
+- Consider using LaTeX acronym package for long documents
+
 **Do:**
 - Use active voice when appropriate
 - Write in third person for formal sections
 - Use present tense for established facts
 - Use past tense for your research activities
 - Be precise and specific
+- "at an abstraction level" not "on a level"
+- "to" instead of "in order to"
+- Proper distinction between "fewer" (number) and "less" (quantity)
 
 **Don't:**
-- Use informal language or contractions
+- Use informal language or contractions like colloquial expressions (it's, can't, though, till)
+- Phrases like "it is obvious," "obviously," "as is well-known"
 - Include personal opinions without evidence
+- Ellipses ("...") especially with etc. or e.g.
+- Dashes for parenthetical sentences (use commas)
 - Use vague or ambiguous terms
 - Overuse passive voice
 - Include unnecessary details
+
+### **Citations and References**
+
+**Self-Contained Documents:**
+- Distribute sources as single self-contained directory
+- No system-dependent tools required
+- Must compile without errors
+- Include makefile with `clean` and `all` targets
+- Use single LaTeX file rather than multiple `\input` files
+
+**Bibliography Management:**
+- Fix all bibliography and bibtex errors
+- Force correct capitalization: `{SOC}` or `{Put a {SOC} in it}`
+- Use common bibtex file across papers
+- Use good naming scheme: `AuthorYearConference`
+- Sort bibtex entries by key
+
+**Citation Formatting:**
+- Use unbreakable space before citations: `silly~\cite{key}`
+- Citations should never be detached from preceding text
+- Proper spacing around punctuation marks
+
+**Text Formatting:**
+- Use bold face sparingly
+- Use italics with moderation
+- Never underline
+- Use `\emph{text}` for italics in text
+- Use `\textit{}` for text in mathmode
+
+**Custom Commands:**
+- Use `\newcommand{}` for recurring expressions
+- Example: `\newcommand{\aethereal}{{\AE{}thereal}}`
+- Makes notation changes easier
+
+## English Writing Standards
+
+### **General Principles**
+
+**Language Consistency:**
+- Use either British or American English consistently
+- Write clear and unambiguous English
+- Use proper articles (a, an, the) before nouns
+
+**Logical Connectives:**
+Understand the difference between:
+- **Because** (B ⇒ A): "A because B"
+- **Thus** (A ⇒ B): "A thus B"
+- **Although/Though**: Concession
+- **However**: Contrast
+- **Moreover**: Additional information
+
+### **Grammar and Style**
+
+**Verb Forms:**
+- Use "to verb" not "for verb-ing"
+- Example: "to explain this point" not "for explaining this point"
+
+**Terminology:**
+- Define terminology consistently
+- Use same words for same concepts
+- Don't use same word for different things
+
+**Singular/Plural Agreement:**
+- "Each" is singular
+- "Both," "all" are plural
+- "Any" can be singular or plural depending on context
+
+**Active Voice:**
+- Write active sentences
+- Avoid: "the controller is orchestrating the SOC"
+- Prefer: "the controller orchestrates the SOC"
+
+### Punctuation and Formatting
+
+**Quotes and Punctuation:**
+- Full stops, commas, semicolons go inside quotes
+- Use "these quotes" for literal citations
+- Avoid single quotes unless necessary
+
+**That vs. Which:**
+- **That**: Essential information (no comma)
+- **Which**: Non-essential information (with comma)
+
+**Oxford Comma:**
+- Prefer: "A, B, and C"
+- Use to indicate subtle subgrouping
+
+**Hyphenation:**
+- Use hyphens correctly for compound adjectives
+- Examples:
+  - "Power management" (power is adjective of management)
+  - "Power-management strategy" (power management is adjective)
+  - "Power management-strategy" (power is adjective of management strategy)
+
+### **Figures and Graphics**
+
+**Figure Requirements:**
+- Every figure must be referred to in text
+- Explain why figure is included and what it shows
+- Use unbreakable spaces: `Figure~\ref{fig:tradeoff}`
+- Use meaningful labels: `\label{fig:tradeoff}`, `\label{sec:introduction}`
+
+**Figure Captions:**
+- Figure captions below figure
+- Table captions above table
+- Place `\label` after `\caption`
+
+**Graphics Quality:**
+- All graphics should be scalable and high resolution
+- Use consistent style across presentations
+- Embed fonts in PDFs
+
+### **Units and References**
+
+**Units:**
+- Precede units with space: `10~nm`
+- Units are not italic
+
+**Page References:**
+- Capitalize "Figure," "Section," "Table" when using numbers
+- Don't refer to "the figure below/above" - use numbers
+- Page references are exception (not capitalized)
+
+### **Version Control and File Naming**
+
+**Version Numbering:**
+- Use version numbers in all documents: `filename_v1.suffix` or `YYYY-MM-DD-filename.suffix`
+- Ensure filenames sort correctly (older documents first)
+- Choose meaningful names for others
+
+**European Project Naming Convention:**
+```
+<date>_<document title>_<version>_<partner>.<extension>
+```
+
+**Examples:**
+- `2009-03-04_INDEXYS_project-handbook_v1-0.pdf`
+- `2009-04-27_INDEXYS_deliverable-1-3_v0-3.doc`
+- `2009-05-12_INDEXYS_deliverable-1-3_v0-3_TTT.doc`
+
+**Version Management:**
+- When returning annotated documents, use: `filename_v1_your-initials.suffix`
+- Do not increase version number for review comments
+- Ensure comments from previous versions are addressed
+- Check entire document for similar mistakes when errors are found
 
 ## Supervision and Feedback
 
@@ -307,6 +526,23 @@ This structure will help you and your supervisor keep all thesis materials organ
 - Implement suggested changes
 - Keep track of all feedback
 
+### **Email Etiquette**
+
+**Subject Lines:**
+- Use subjects that reflect purpose and content
+- Be specific and descriptive
+
+**Formality Levels:**
+- **Friends/Direct Colleagues**: No salutation, "hi," "howdy," "hey" acceptable
+- **Beyond Direct Colleagues**: Use "Hello FirstName," "Dear FirstName," or "Dear Mr./Mrs./Prof. SurName"
+- **Unknown Gender**: Use "Dear Sir/Madam"
+- **When in Doubt**: Err on the formal side
+
+**Attachments:**
+- Include documents in emails rather than URLs
+- Check that desired attachments are included
+- Disk space is cheap, accessibility is important
+
 ### **Peer Review and Support**
 
 - **Study Groups**: Form thesis writing groups
@@ -324,9 +560,14 @@ For the most current and detailed assessment criteria, refer to the official [TU
 
 ## Submission and Defense
 
-### **Pre-Submission Checklist**
+### **Pre-Submission Checklist for Report**
 
 - [ ] All chapters completed and reviewed
+- [ ] Spell-check completed
+- [ ] Page numbers included
+- [ ] Table of contents for long documents
+- [ ] Version number in filename
+- [ ] All previous feedback addressed
 - [ ] Abstract written
 - [ ] References properly formatted
 - [ ] Appendices included
@@ -334,6 +575,22 @@ For the most current and detailed assessment criteria, refer to the official [TU
 - [ ] Supervisor approval obtained
 - [ ] Format requirements met
 - [ ] Electronic and hard copies ready
+
+### **Pre-Submission Checklist for Code**
+- [ ] Compiles without warnings
+- [ ] All assertions included
+- [ ] Comprehensive testing completed
+- [ ] Descriptive names used
+- [ ] Makefile included
+- [ ] Version controlled
+
+### **Before Reviewing Documents**
+
+- [ ] Apply three-level review process
+- [ ] Check all items in review checklist
+- [ ] Write professional, impersonal review
+- [ ] Provide constructive suggestions
+- [ ] Maintain consistent review standards
 
 ### **Submission Process**
 

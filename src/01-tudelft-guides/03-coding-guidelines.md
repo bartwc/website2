@@ -2,6 +2,27 @@
 
 *Reference - [SerenityOS](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md)*
 
+## 📋 Table of Contents
+
+1. [Human Language Policy](#human-language-policy)
+2. [Code and Submission](#code-and-submission)
+3. [C++ Coding Style](#c-coding-style)
+   - [Indenting](#indenting)
+   - [Braces](#braces)
+   - [Parentheses](#parentheses)
+   - [Null, False and 0](#null-false-and-0)
+   - [Names](#names)
+4. [Modern C++ Features (C++20/23)](#modern-c-features-c2023)
+5. [Doxygen Comments](#doxygen-comments)
+6. [Security Best Practices](#security-best-practices)
+7. [Source Code Standards](#source-code-standards)
+   - [Code Quality Principles](#code-quality-principles)
+   - [Compilation and Warnings](#compilation-and-warnings)
+   - [Naming and Documentation](#naming-and-documentation)
+8. [Version Management (Git)](#version-management-git)
+   - [Why Use Version Management](#why-use-version-management)
+   - [Git Best Practices](#git-best-practices)
+
 ## Human Language Policy
 
 * The official documentation language is English with ISO 8601 dates and metric units.
@@ -340,3 +361,79 @@ auto processData(const std::string_view& data) -> std::unique_ptr<Result> {
 * **Avoid raw pointers** - Use smart pointers to prevent memory leaks
 * **Check return values** - Always verify function return codes
 * **Use const correctness** - Mark parameters and methods as `const` when possible
+
+# Additional Notes
+
+## Source Code Standards
+
+### Code Quality Principles
+
+**Maintainability:**
+- Write clean, structured code
+- Use consistent indentation, capitalization, commenting
+- Code has long lifetime and will be read by many people
+- Write simple, understandable code
+
+**Testing Requirements:**
+- No program is finished until comprehensively tested
+- Testing means demonstrating correct operation for all inputs
+- Not just finding one input that seems to work
+
+## **Compilation and Warnings**
+
+**Compiler Settings:**
+- Compile with strictest options: `-Wall -ansi` for C/C++
+- All warnings must be resolved
+- Code should compile without warnings or not compile at all
+
+**Assertions:**
+- Insert assertions to check properties that should hold
+- In C/C++: at start and end of functions
+- In VHDL: in entity declaration or architectures
+
+## **Naming and Documentation**
+
+**Naming Conventions:**
+- Use descriptive English names for all identifiers
+- Even when English is not your native language
+- Variables, functions, methods, classes, files
+
+**Build Systems:**
+- Use makefiles where possible
+- Document compilation parameters
+- Ease installation and reproduction for others
+
+## **Version Management (Git)**
+
+### Why Use Version Management
+
+1. **Backup and Recovery**: Return to previous versions
+2. **Change Tracking**: Trace what changed between versions
+3. **Multi-location Work**: Work from different computers
+4. **Collaboration**: Multiple people can work on same files
+5. **Remote Backups**: Multiple repositories act as backups
+6. **Experimental Changes**: Make speculative changes safely
+
+### Git Best Practices
+
+**What to Version Control:**
+- All source code
+- All papers, technical notes, reports
+- Microsoft Word documents (use Track Changes and Comments)
+
+**Commit Strategy:**
+- Commit frequently to minimize work loss
+- Commit whenever you have a working version (even after 5 minutes)
+- Use short but useful descriptions in commit messages
+- Each commit should be a self-contained change (one feature or bug fix)
+
+**File Management:**
+- Only check in source files (not generated files)
+- For LaTeX: avoid very long lines to improve change tracking
+- Each sentence should start on a new line when possible
+- Use hard line breaks at column 70-80 for intermediate results
+
+**Branching:**
+- Branches are cheap - use them for experiments
+- Delete branches if experiments don't work out
+- Merge successful experiments into main branch

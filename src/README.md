@@ -16,14 +16,14 @@ This website is built using mdBook and contains several key sections:
 ### [TU Delft Student Guides](01-tudelft-guides/README.md)
 A comprehensive collection of unofficial guides for TU Delft students:
 
-#### [01 - Survival Guide](01-tudelft-guides/01-survival-guide.md)
+#### [01 - Unofficial Survival Guide for TU Delft Students](01-tudelft-guides/01-survival-guide.md)
 Essential information for new TU Delft students covering:
 - Pre-arrival preparation and housing
 - Daily student life and practical tips
 - Transport, cycling, and local resources
 - Weather, food options, and study spaces
 
-#### [02 - CESE Guide](01-tudelft-guides/02-cese-guide.md)
+#### [02 - Your Unofficial Guide to EEMCS in TU Delft](01-tudelft-guides/02-cese-guide.md)
 Specialized guide for Computer and Embedded Systems Engineering students:
 - Curriculum overview and course structure
 - Technical setup (Linux, CLion, LaTeX, GitLab)
@@ -37,22 +37,30 @@ Professional coding standards and best practices:
 - Security best practices and documentation standards
 - RAII principles and memory management
 
-#### [04 - Thesis Guidelines](01-tudelft-guides/04-thesis-guidelines.md)
+#### [04 - Your Unofficial Guide to Thesis Writing](01-tudelft-guides/04-thesis-guidelines.md)
 Complete guide to thesis writing and defense:
 - Thesis process and timeline planning
 - Research methodology and writing structure
 - Quality assurance and grading rubrics
 - Resources and support for graduation
 
+#### [05 - Your Unofficial Guide to Reviewing Papers](01-tudelft-guides/05-paper-reviewing-guidelines.md)
+Comprehensive academic standards and paper reviewing:
+- Professional conduct and collaboration practices
+- Paper structure and academic writing standards
+- Three-level review methodology and feedback interpretation
+- Understanding professor feedback and common symbols
+
 ## 🎯 Quick Navigation
 
 | Looking For | Go To |
 |-------------|-------|
 | Professional experience and skills | [Resume](Resume.md) |
-| Moving to TU Delft | [Survival Guide](01-tudelft-guides/01-survival-guide.md) |
-| CESE program information | [CESE Guide](01-tudelft-guides/02-cese-guide.md) |
+| Moving to TU Delft | [Unofficial Survival Guide](01-tudelft-guides/01-survival-guide.md) |
+| CESE program information | [EEMCS Guide](01-tudelft-guides/02-cese-guide.md) |
 | Coding standards | [Coding Guidelines](01-tudelft-guides/03-coding-guidelines.md) |
-| Thesis writing help | [Thesis Guidelines](01-tudelft-guides/04-thesis-guidelines.md) |
+| Thesis writing help | [Thesis Writing Guide](01-tudelft-guides/04-thesis-guidelines.md) |
+| Academic writing standards | [Paper Reviewing Guide](01-tudelft-guides/05-paper-reviewing-guidelines.md) |
 
 ## 🛠️ Technical Details
 

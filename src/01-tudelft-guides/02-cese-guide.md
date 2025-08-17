@@ -1,6 +1,32 @@
 # Your Unofficial Guide to EEMCS in TU Delft
 
-Entering the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS) at TU Delft can be thrilling and demanding. To excel in this rigorous environment, follow these key tips:
+Entering the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS) at TU Delft can be thrilling and demanding. To excel in this rigorous environment, feel free to follow this unofficial guide to EEMCS.
+
+## 📋 Table of Contents
+
+1. [Curriculum in EEMCS - CESE](#curriculum-in-eemcs---cese)
+   - [Study Guide and Course Browser](#curriculum-in-eemcs---cese)
+   - [First Year (60 EC)](#first-year-60-ec)
+   - [Second Year (60 EC)](#second-year-60-ec)
+   - [Individual Exam Programme (IEP)](#curriculum-in-eemcs---cese)
+
+2. [Essential Setup](#essential---laptops)
+   - [Laptops](#essential---laptops)
+   - [Operating System (Linux)](#essential---operating-system)
+   - [Software Setup](#essential---software)
+     - [CLion IDE](#1a---clion-integrated-development-environment-ide)
+     - [LaTeX](#2---latex)
+     - [GitLab](#3---gitlab)
+     - [Messaging Apps](#4---messaging-apps)
+     - [OBS](#5---obs)
+
+3. [Miscellaneous](#miscellaneous)
+   - [Free Guides](#free-guides)
+   - [Termination of Enrolment](#termination-of-enrolment)
+   - [TU Delft for Life Portal](#tu-delft-for-life-portal)
+   - [Career Guide](#career-guide)
+
+4. [Conclusion](#conclusion)
 
 ## **Curriculum in EEMCS - CESE**
 

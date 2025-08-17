@@ -44,6 +44,16 @@ Welcome to the unofficial TU Delft student guides! This collection provides comp
 
 *Perfect for: Final-year students, thesis students, anyone preparing for graduation*
 
+### [05 - Paper Reviewing Guidelines](05-paper-reviewing-guidelines.md)
+**Comprehensive academic standards and paper reviewing**
+
+- **Professional conduct**: Collaboration practices, paper submission process
+- **Paper structure**: Standard academic paper organization
+- **Review process**: Three-level review methodology, feedback interpretation
+- **Professor feedback**: Understanding common symbols and abbreviations
+
+*Perfect for: All students, researchers, anyone writing academic papers or reviewing documents*
+
 ## 🎯 Quick Navigation
 
 | Need Help With | Recommended Guide |
@@ -52,6 +62,7 @@ Welcome to the unofficial TU Delft student guides! This collection provides comp
 | CESE program, technical setup | [CESE Guide](02-cese-guide.md) |
 | Writing code, development practices | [Coding Guidelines](03-coding-guidelines.md) |
 | Thesis writing, research, graduation | [Thesis Guidelines](04-thesis-guidelines.md) |
+| Academic writing, paper reviewing | [Paper Reviewing Guidelines](05-paper-reviewing-guidelines.md) |
 
 ## 📖 How to Use These Guides
 
@@ -59,6 +70,7 @@ Welcome to the unofficial TU Delft student guides! This collection provides comp
 2. **Check the CESE Guide** for program-specific information
 3. **Reference the Coding Guidelines** when working on programming projects
 4. **Use the Thesis Guidelines** when approaching your final year
+5. **Follow the Paper Reviewing Guidelines** for academic writing and paper reviewing standards
 
 ## 🔄 Keeping Guides Updated
 

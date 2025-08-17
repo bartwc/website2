@@ -2,6 +2,45 @@
 
 Migrating to a new country for studies can be a daunting experience, but it can also be one of the most enriching experiences of your life. If you are considering studying at TU Delft, one of the top technical universities in the world, this blog post will guide you through the process of migrating to the Netherlands as a student.
 
+## 📋 Table of Contents
+
+1. [Preparing for the Move](#preparing-for-the-move)
+   - [Cost of Living](#cost-of-living)
+   - [Introduction Program](#sign-up-for-introduction-program)
+   - [Housing Portals](#housing-portals)
+   - [Apps](#apps)
+   - [Weather in Delft](#weather-in-delft-2023)
+   - [Things to Bring](#things-to-bring-to-tu-delft)
+
+2. [Arriving in the Netherlands](#arriving-in-the-netherlands)
+   - [Getting Around Netherlands](#getting-around-netherlands-ie-to-delft-by-train)
+   - [Municipal Registration](#register-with-the-municipality-you-live-in)
+   - [Residence Permit Collection](#collection-of-residence-permit)
+   - [Bank Account](#bank-account)
+   - [Transport - OV-Chipkaart](#transport---ov-chipkaart)
+   - [Phone Plan](#phone-plan)
+   - [Cycling](#cycling)
+   - [Supermarkets](#supermarkets)
+   - [Things Worth Buying](#things-worth-buying)
+   - [Household Products and Tools](#household-products-and-tools)
+   - [Museum Pass](#museum-pass)
+   - [Travel Netherlands](#travel-netherlands)
+
+3. [Adjusting to Student Life at TU Delft](#adjusting-to-student-life-at-tu-delft)
+   - [WiFi](#wifi)
+   - [TimeTable](#timetable)
+   - [Places to Study](#places-to-study)
+   - [Printing](#printing)
+   - [Calculator](#calculator)
+   - [X (Campus Activities)](#x)
+   - [Academic Calendar](#academic-calendar-2023-2024)
+   - [Entire Map of TU Delft](#entire-map-of-tu-delft)
+   - [Food](#food)
+   - [Clubs](#clubs)
+   - [Research Groups](#research-groups)
+
+4. [Conclusion](#conclusion)
+
 ## Preparing for the Move
 
 Before you embark on your journey to TU Delft, there are several things you should do to prepare. First, you should ensure that you have all the necessary documentation, including your passport, student visa, and acceptance letter from TU Delft. You should also research the cost of living in the Netherlands and plan your budget accordingly. Additionally, you may want to learn some basic Dutch phrases to help you navigate your new surroundings.
