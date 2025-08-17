@@ -177,6 +177,36 @@
                     <main>
                         <h1 id="coding-guidelines"><a class="header" href="#coding-guidelines">Coding Guidelines</a></h1>
 <p><em>Reference - <a href="https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md">SerenityOS</a></em></p>
+<h2 id="-table-of-contents"><a class="header" href="#-table-of-contents">📋 Table of Contents</a></h2>
+<ol>
+<li><a href="#human-language-policy">Human Language Policy</a></li>
+<li><a href="#code-and-submission">Code and Submission</a></li>
+<li><a href="#c-coding-style">C++ Coding Style</a>
+<ul>
+<li><a href="#indenting">Indenting</a></li>
+<li><a href="#braces">Braces</a></li>
+<li><a href="#parentheses">Parentheses</a></li>
+<li><a href="#null-false-and-0">Null, False and 0</a></li>
+<li><a href="#names">Names</a></li>
+</ul>
+</li>
+<li><a href="#modern-c-features-c2023">Modern C++ Features (C++20/23)</a></li>
+<li><a href="#doxygen-comments">Doxygen Comments</a></li>
+<li><a href="#security-best-practices">Security Best Practices</a></li>
+<li><a href="#source-code-standards">Source Code Standards</a>
+<ul>
+<li><a href="#code-quality-principles">Code Quality Principles</a></li>
+<li><a href="#compilation-and-warnings">Compilation and Warnings</a></li>
+<li><a href="#naming-and-documentation">Naming and Documentation</a></li>
+</ul>
+</li>
+<li><a href="#version-management-git">Version Management (Git)</a>
+<ul>
+<li><a href="#why-use-version-management">Why Use Version Management</a></li>
+<li><a href="#git-best-practices">Git Best Practices</a></li>
+</ul>
+</li>
+</ol>
 <h2 id="human-language-policy"><a class="header" href="#human-language-policy">Human Language Policy</a></h2>
 <ul>
 <li>The official documentation language is English with ISO 8601 dates and metric units.</li>
@@ -454,6 +484,85 @@ auto processData(const std::string_view&amp; data) -&gt; std::unique_ptr&lt;Resu
 <li><strong>Avoid raw pointers</strong> - Use smart pointers to prevent memory leaks</li>
 <li><strong>Check return values</strong> - Always verify function return codes</li>
 <li><strong>Use const correctness</strong> - Mark parameters and methods as <code>const</code> when possible</li>
+</ul>
+<h1 id="additional-notes"><a class="header" href="#additional-notes">Additional Notes</a></h1>
+<h2 id="source-code-standards"><a class="header" href="#source-code-standards">Source Code Standards</a></h2>
+<h3 id="code-quality-principles"><a class="header" href="#code-quality-principles">Code Quality Principles</a></h3>
+<p><strong>Maintainability:</strong></p>
+<ul>
+<li>Write clean, structured code</li>
+<li>Use consistent indentation, capitalization, commenting</li>
+<li>Code has long lifetime and will be read by many people</li>
+<li>Write simple, understandable code</li>
+</ul>
+<p><strong>Testing Requirements:</strong></p>
+<ul>
+<li>No program is finished until comprehensively tested</li>
+<li>Testing means demonstrating correct operation for all inputs</li>
+<li>Not just finding one input that seems to work</li>
+</ul>
+<h2 id="compilation-and-warnings"><a class="header" href="#compilation-and-warnings"><strong>Compilation and Warnings</strong></a></h2>
+<p><strong>Compiler Settings:</strong></p>
+<ul>
+<li>Compile with strictest options: <code>-Wall -ansi</code> for C/C++</li>
+<li>All warnings must be resolved</li>
+<li>Code should compile without warnings or not compile at all</li>
+</ul>
+<p><strong>Assertions:</strong></p>
+<ul>
+<li>Insert assertions to check properties that should hold</li>
+<li>In C/C++: at start and end of functions</li>
+<li>In VHDL: in entity declaration or architectures</li>
+</ul>
+<h2 id="naming-and-documentation"><a class="header" href="#naming-and-documentation"><strong>Naming and Documentation</strong></a></h2>
+<p><strong>Naming Conventions:</strong></p>
+<ul>
+<li>Use descriptive English names for all identifiers</li>
+<li>Even when English is not your native language</li>
+<li>Variables, functions, methods, classes, files</li>
+</ul>
+<p><strong>Build Systems:</strong></p>
+<ul>
+<li>Use makefiles where possible</li>
+<li>Document compilation parameters</li>
+<li>Ease installation and reproduction for others</li>
+</ul>
+<h2 id="version-management-git"><a class="header" href="#version-management-git"><strong>Version Management (Git)</strong></a></h2>
+<h3 id="why-use-version-management"><a class="header" href="#why-use-version-management">Why Use Version Management</a></h3>
+<ol>
+<li><strong>Backup and Recovery</strong>: Return to previous versions</li>
+<li><strong>Change Tracking</strong>: Trace what changed between versions</li>
+<li><strong>Multi-location Work</strong>: Work from different computers</li>
+<li><strong>Collaboration</strong>: Multiple people can work on same files</li>
+<li><strong>Remote Backups</strong>: Multiple repositories act as backups</li>
+<li><strong>Experimental Changes</strong>: Make speculative changes safely</li>
+</ol>
+<h3 id="git-best-practices"><a class="header" href="#git-best-practices">Git Best Practices</a></h3>
+<p><strong>What to Version Control:</strong></p>
+<ul>
+<li>All source code</li>
+<li>All papers, technical notes, reports</li>
+<li>Microsoft Word documents (use Track Changes and Comments)</li>
+</ul>
+<p><strong>Commit Strategy:</strong></p>
+<ul>
+<li>Commit frequently to minimize work loss</li>
+<li>Commit whenever you have a working version (even after 5 minutes)</li>
+<li>Use short but useful descriptions in commit messages</li>
+<li>Each commit should be a self-contained change (one feature or bug fix)</li>
+</ul>
+<p><strong>File Management:</strong></p>
+<ul>
+<li>Only check in source files (not generated files)</li>
+<li>For LaTeX: avoid very long lines to improve change tracking</li>
+<li>Each sentence should start on a new line when possible</li>
+<li>Use hard line breaks at column 70-80 for intermediate results</li>
+</ul>
+<p><strong>Branching:</strong></p>
+<ul>
+<li>Branches are cheap - use them for experiments</li>
+<li>Delete branches if experiments don't work out</li>
+<li>Merge successful experiments into main branch</li>
 </ul>
 
                     </main>
