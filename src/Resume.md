@@ -19,14 +19,14 @@ A meticulous and driven Embedded Systems Engineer. Highly passionate in Models-B
 
 ### Delft University of Technology (TU Delft)
 **Sep 2023 – Aug 2025**  
-Master of Science, Computer Embedded Systems Engineering — Cum Laude  
+Master of Science, Computer Embedded Systems Engineering
 - MSc Thesis: *Design and Validate C3 Links for BVLOS Operations Based on SORA Regulations*  
 - Relevant modules: Advanced Computing Systems; Software Fundamentals; Software Systems; Real-Time Systems; Embedded Systems Lab; Modern Computer Architecture; Processor Design Project; High-Speed Digital Design  
-- Grade for Courses: 8.0 | Grade for Thesis: 9.0 | Cum Laude
+- Grade for Courses: 8.0
 
 ### Singapore University of Technology and Design (SUTD)
 **May 2015 – Sep 2018**  
-Bachelor of Engineering, Engineering Product Development — Honours  
+Bachelor of Engineering, Engineering Product Development — Magna Cum Laude  
 Specialisation: Electrical and Electronics Engineering  
 - Relevant modules: Electromagnetism; Systems and Control; Advanced Feedback and Control; Digital Integrated Circuits; Electric Power Systems  
 - Grade for Courses: 4.23
