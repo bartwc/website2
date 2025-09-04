@@ -1,5 +1,5 @@
 # Barry Tee  
-Electronics Defence Engineer  
+Electronics Engineer  
 Engineer · Thinker · Scientist
 
 ---
@@ -69,6 +69,6 @@ Role: Electrical IC & Team Leader
 
 - Languages: Proficient in English & Mandarin  
 - Tools: SolidWorks; Cadence (Electronics CAD); PSpice; Amazon Web Services; Adobe Photoshop  
-- Programming: Proficient in Python; exposure to C++, Machine Learning, Robot Operating System (ROS) & Verilog
+- Programming: Proficient in Python; exposure to C++, Machine Learning, Robot Operating System (ROS)
 
 
