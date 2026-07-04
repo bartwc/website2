@@ -54,18 +54,6 @@ Comprehensive academic standards and paper reviewing:
 - Three-level review methodology and feedback interpretation
 - Understanding professor feedback and common symbols
 
-## 🎯 Quick Navigation
-
-| Looking For | Go To |
-|-------------|-------|
-| Singapore HDB resale map | [Interactive HDB resale map](hdb-map/sg_hdb_resale_pure_map.html) |
-| Professional experience and skills | [Resume](Resume.md) |
-| Moving to TU Delft | [Unofficial Survival Guide](01-tudelft-guides/01-survival-guide.md) |
-| CESE program information | [EEMCS Guide](01-tudelft-guides/02-cese-guide.md) |
-| Coding standards | [Coding Guidelines](01-tudelft-guides/03-coding-guidelines.md) |
-| Thesis writing help | [Thesis Writing Guide](01-tudelft-guides/04-thesis-guidelines.md) |
-| Academic writing standards | [Paper Reviewing Guide](01-tudelft-guides/05-paper-reviewing-guidelines.md) |
-
 ## 🛠️ Technical Details
 
 - **Built with**: [mdBook](https://github.com/rust-lang/mdBook)
