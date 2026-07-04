@@ -6,8 +6,8 @@ Welcome to my personal website! This site serves as a comprehensive resource sho
 
 This website is built using mdBook and contains several key sections:
 
-### [Singapore HDB Resale Map](hdb-map/sg_hdb_resale_pure_map.html)
-Interactive map of Singapore HDB resale transactions with MRT/LRT, electoral district, cellular network, and church overlays.
+<!-- ### [Singapore HDB Resale Map](hdb-map/sg_hdb_resale_pure_map.html)
+Interactive map of Singapore HDB resale transactions with MRT/LRT, electoral district, cellular network, and church overlays. -->
 
 ### [Resume](Resume.md)
 <!-- My professional resume highlighting:

@@ -54,7 +54,7 @@ Welcome to the unofficial TU Delft student guides! This collection provides comp
 
 *Perfect for: All students, researchers, anyone writing academic papers or reviewing documents*
 
-## 🎯 Quick Navigation
+<!-- ## 🎯 Quick Navigation
 
 | Need Help With | Recommended Guide |
 |----------------|-------------------|
@@ -62,7 +62,7 @@ Welcome to the unofficial TU Delft student guides! This collection provides comp
 | CESE program, technical setup | [CESE Guide](02-cese-guide.md) |
 | Writing code, development practices | [Coding Guidelines](03-coding-guidelines.md) |
 | Thesis writing, research, graduation | [Thesis Guidelines](04-thesis-guidelines.md) |
-| Academic writing, paper reviewing | [Paper Reviewing Guidelines](05-paper-reviewing-guidelines.md) |
+| Academic writing, paper reviewing | [Paper Reviewing Guidelines](05-paper-reviewing-guidelines.md) | -->
 
 ## 📖 How to Use These Guides
 
