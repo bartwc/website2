@@ -6,6 +6,9 @@ Welcome to my personal website! This site serves as a comprehensive resource sho
 
 This website is built using mdBook and contains several key sections:
 
+### [Singapore HDB Resale Map](hdb-map/sg_hdb_resale_pure_map.html)
+Interactive map of Singapore HDB resale transactions with MRT/LRT, electoral district, cellular network, and church overlays.
+
 ### [Resume](Resume.md)
 <!-- My professional resume highlighting:
 - **Education**: Singapore University of Technology and Design (SUTD)
@@ -55,6 +58,7 @@ Comprehensive academic standards and paper reviewing:
 
 | Looking For | Go To |
 |-------------|-------|
+| Singapore HDB resale map | [Interactive HDB resale map](hdb-map/sg_hdb_resale_pure_map.html) |
 | Professional experience and skills | [Resume](Resume.md) |
 | Moving to TU Delft | [Unofficial Survival Guide](01-tudelft-guides/01-survival-guide.md) |
 | CESE program information | [EEMCS Guide](01-tudelft-guides/02-cese-guide.md) |

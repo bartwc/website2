@@ -1,6 +1,7 @@
 # Summary
 
 - [mdBook Quickstart](README.md)
+- [Singapore HDB Resale Map](hdb-map/sg_hdb_resale_pure_map.html)
 - [Resume](Resume.md)
 - [TU Delft](01-tudelft-guides/README.md)
     - [Survival Guide](01-tudelft-guides/01-survival-guide.md)
